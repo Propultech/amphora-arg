@@ -55,36 +55,6 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "Shop by Category",
-        "heading_size": "h2",
-        "align_title": "center",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "all",
-        "products_to_show": 5,
-        "columns_desktop": 5,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 20,
-        "padding_bottom": 36
-      }
-    },
     "fd8003f0-fa91-4c7d-8f99-2bb233dd3615": {
       "type": "multicolumn",
       "blocks": {
@@ -193,6 +163,35 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Must have",
+        "heading_size": "h2",
+        "align_title": "center",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 36
       }
     },
     "b18a84ed-5707-48d2-b87d-d05620258745": {
@@ -360,9 +359,9 @@
   },
   "order": [
     "608f3ae5-b1cf-4082-919f-3ead2712d478",
-    "featured_collection",
     "fd8003f0-fa91-4c7d-8f99-2bb233dd3615",
     "241f4691-2553-4f6e-bc31-ad64aa132e6b",
+    "featured_collection",
     "b18a84ed-5707-48d2-b87d-d05620258745",
     "dc802415-49b3-4130-a1bb-b4143927a0d4",
     "406a65c7-d10a-4160-a30c-634059fa1435"
