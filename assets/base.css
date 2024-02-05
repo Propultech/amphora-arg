@@ -3685,6 +3685,10 @@ sticky-header>.header {
   justify-content: center;
 }
 
+.title-wrapper-with-link {
+  padding-top: 40px;
+}
+
 @media (max-width: 768px) {
   .collection__title .title {
     font-size: 20px;
