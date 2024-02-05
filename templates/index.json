@@ -355,6 +355,53 @@
         "padding_top": 16,
         "padding_bottom": 20
       }
+    },
+    "multicolumn_mjLVpa": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_DWi7AV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bannerx2_desk_1.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_wnPTM8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bannerx2_desk_2.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_DWi7AV",
+        "column_wnPTM8"
+      ],
+      "settings": {
+        "force_full_width": true,
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_desktop": false,
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -364,6 +411,7 @@
     "featured_collection",
     "b18a84ed-5707-48d2-b87d-d05620258745",
     "dc802415-49b3-4130-a1bb-b4143927a0d4",
-    "406a65c7-d10a-4160-a30c-634059fa1435"
+    "406a65c7-d10a-4160-a30c-634059fa1435",
+    "multicolumn_mjLVpa"
   ]
 }
