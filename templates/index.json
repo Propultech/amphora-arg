@@ -293,7 +293,8 @@
       ],
       "custom_css": [
         ".multicolumn {background: #ffffff;}",
-        ".multicolumn-card-spacing {width: 60px; height: 60px;}"
+        ".multicolumn-card-spacing {height: 60px;}",
+        ".multicolumn-card__image {width: initial; height: 60px;}"
       ],
       "settings": {
         "force_full_width": true,
