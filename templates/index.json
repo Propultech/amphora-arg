@@ -135,7 +135,7 @@
         "title": "Shop by Category",
         "heading_size": "h1",
         "image_width": "half",
-        "image_ratio": "square",
+        "image_ratio": "adapt",
         "columns_desktop": 6,
         "column_alignment": "center",
         "background_style": "none",
@@ -145,8 +145,8 @@
         "columns_mobile": "1",
         "swipe_on_desktop": false,
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "241f4691-2553-4f6e-bc31-ad64aa132e6b": {
