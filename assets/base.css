@@ -3677,6 +3677,14 @@ sticky-header>.header {
   display: none !important
 }
 
+.multicolumn-card__image-wrapper {
+  width: 100%;
+}
+
+.title-wrapper-with-link {
+  justify-content: center;
+}
+
 @media (max-width: 768px) {
   .collection__title .title {
     font-size: 20px;
