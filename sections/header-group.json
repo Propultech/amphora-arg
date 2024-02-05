@@ -8,13 +8,21 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "ENVÍO GRATIS POR COMPRAS SOBRE $49.900, DE ATACAMA A LOS LAGOS.",
+            "text": "SUMMER SALE UP TO 40% OFF + 3 CUOTAS SIN INTERÉS",
+            "link": ""
+          }
+        },
+        "announcement_AdnBNW": {
+          "type": "announcement",
+          "settings": {
+            "text": "ENVÍOS A TODO EL PAÍS | ENVÍO GRATIS EN COMPRAS SUPERIORES A $65.000",
             "link": ""
           }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "announcement_AdnBNW"
       ],
       "settings": {
         "color_scheme": "accent-1",
