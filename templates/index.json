@@ -247,8 +247,9 @@
         "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-1": {
           "type": "column",
           "settings": {
-            "title": "Bandolera Selene",
-            "text": "",
+            "image": "shopify:\/\/shop_images\/Envi_o_a_Domicilio.webp",
+            "title": "Envío a Domicilio",
+            "text": "<p>Recibí tu compra en cualquier parte del país. Envío Express en 48 hs a CABA y GBA<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -256,8 +257,9 @@
         "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-2": {
           "type": "column",
           "settings": {
-            "title": "Bandolera Selene",
-            "text": "",
+            "image": "shopify:\/\/shop_images\/Cambios_y_Devoluciones.webp",
+            "title": "Cambios y Devoluciones",
+            "text": "<p>Hasta 30 días después de recibida la compra<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -265,35 +267,19 @@
         "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-3": {
           "type": "column",
           "settings": {
-            "title": "Bandolera Selene",
-            "text": "",
+            "image": "shopify:\/\/shop_images\/Financiacio_n.webp",
+            "title": "Financiación",
+            "text": "<p>3 Cuotas sin interés <\/p><p>En toda la web<\/p>",
             "link_label": "",
             "link": ""
           }
         },
-        "e5f2d0c4-f397-441d-8e8e-e8be220ca745": {
+        "column_CRbVVD": {
           "type": "column",
           "settings": {
-            "title": "Bandolera Selene",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "5da61721-6766-41fb-bb07-2a65464d7801": {
-          "type": "column",
-          "settings": {
-            "title": "Bandolera Selene",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "9530b128-0e96-45fc-8d42-c21b286760c1": {
-          "type": "column",
-          "settings": {
-            "title": "Bandolera Selene",
-            "text": "",
+            "image": "shopify:\/\/shop_images\/Pick_up.webp",
+            "title": "Pick Up",
+            "text": "<p>Sin cargo en tiendas habilitadas<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -303,9 +289,7 @@
         "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-1",
         "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-2",
         "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-3",
-        "e5f2d0c4-f397-441d-8e8e-e8be220ca745",
-        "5da61721-6766-41fb-bb07-2a65464d7801",
-        "9530b128-0e96-45fc-8d42-c21b286760c1"
+        "column_CRbVVD"
       ],
       "custom_css": [
         ".title-wrapper-with-link {justify-content: center; margin-bottom: 0; margin-top: 50px;}"
