@@ -3678,7 +3678,7 @@ sticky-header>.header {
 }
 
 .multicolumn-card__image-wrapper {
-  width: 100%;
+  width: 100% !important;
 }
 
 .title-wrapper-with-link {
