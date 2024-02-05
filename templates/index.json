@@ -57,8 +57,9 @@
     },
     "featured_collection": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
-        "title": "<strong>ADELANTA TUS COMPRAS DE NAVIDAD<\/strong>",
+        "title": "Shop by Category",
         "heading_size": "h2",
         "align_title": "center",
         "description": "",
@@ -90,7 +91,8 @@
         "template--21506872606913__fd8003f0-fa91-4c7d-8f99-2bb233dd3615-column-1": {
           "type": "column",
           "settings": {
-            "title": "",
+            "image": "shopify:\/\/shop_images\/1-CARTERAS.webp",
+            "title": "CARTERAS",
             "text": "",
             "link_label": "",
             "link": ""
@@ -122,12 +124,12 @@
       ],
       "settings": {
         "force_full_width": true,
-        "title": "",
+        "title": "Shop by Category",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
         "columns_desktop": 3,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
