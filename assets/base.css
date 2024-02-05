@@ -5,6 +5,10 @@
   --alpha-badge-border: 0.1;
 }
 
+body {
+  overflow-x: hidden;
+}
+
 .product-card-wrapper .card,
 .contains-card--product {
   --border-radius: var(--product-card-corner-radius);
@@ -2831,6 +2835,11 @@ details[open]>.header__submenu {
   padding-bottom: 22px;
 }
 
+.header__menu-item a {
+  color: #000 !important;
+  text-decoration: none !important;
+}
+
 
 .header__menu-item span {
   transition: text-decoration var(--duration-short) ease;
@@ -2856,8 +2865,57 @@ details[open]>.header__menu-item .icon-caret {
 .header__active-menu-item {
   transition: text-decoration-thickness var(--duration-short) ease;
   color: rgb(var(--color-foreground));
-  text-decoration: underline;
+  text-decoration: none;
   text-underline-offset: 0.3rem;
+}
+
+.slider-mobile-gutter .slideshow__controls {
+  position: absolute;
+  z-index: 10000000;
+  bottom: 0;
+  width: 100%;
+  border-top: none;
+}
+
+.slideshow__control-wrapper .slider-counter__link .dot {
+  background: #ffffff4e;
+  border: 1px solid #fff;
+}
+
+.slideshow__control-wrapper .slider-counter__link--active {
+  border-radius: 50%;
+  background: #ffffff4e;
+  border: 1px px solid #fff;
+  padding: 0;
+  width: 25px;
+  height: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.slideshow__control-wrapper {
+  align-items: center;
+}
+
+.title.h2,
+.title.h1 {
+  font-weight: 300 !important;
+  font-size: 31px !important;
+  line-height: 34px !important;
+  color: #3c3c3b !important;
+}
+
+.multicolumn-card {
+  position: relative;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.list-social__item .icon path {
+  fill: #c7af8c;
 }
 
 .header__menu-item:hover .header__active-menu-item {
@@ -3578,10 +3636,14 @@ details-disclosure>details {
 }
 
 .full-screen-custom-video {
-  width: 97vw;
+  width: 99vw;
   position: relative;
   padding-bottom: 56.25%;
   margin: 50px auto
+}
+
+sticky-header>.header {
+  padding-top: 0 !important;
 }
 
 .full-screen-custom-video iframe {
@@ -3596,6 +3658,23 @@ details-disclosure>details {
   font-size: 22px;
   color: #333333;
   font-weight: 300;
+}
+
+.product-form__submit {
+  border: solid 1px #000;
+}
+
+.product-form__submit:hover {
+  border: solid 1px #c7af8c !important;
+  background: #c7af8c !important;
+}
+
+.quantity__button:hover {
+  background: #c7af8c !important;
+}
+
+.product-form__submit::after {
+  display: none !important
 }
 
 @media (max-width: 768px) {
