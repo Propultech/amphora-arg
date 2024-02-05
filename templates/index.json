@@ -294,7 +294,7 @@
       "custom_css": [
         ".multicolumn {background: #ffffff;}",
         ".multicolumn-card-spacing {height: 60px;}",
-        ".multicolumn-card__image {width: initial; height: 60px;}"
+        ".multicolumn-card__image {width: initial; height: 60px; position:relative;}"
       ],
       "settings": {
         "force_full_width": true,
