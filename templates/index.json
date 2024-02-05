@@ -295,7 +295,7 @@
         ".multicolumn {background: #ffffff;}",
         ".multicolumn-card-spacing {height: 60px;}",
         ".multicolumn-card__image {width: initial; height: 60px; position: relative; margin: 0 auto;}",
-        ".multicolumn-card__image-wrapper--half-width {width:100%;}"
+        ".multicolumn-card__image-wrapper--half-width {width: 100%;}"
       ],
       "settings": {
         "force_full_width": true,
@@ -322,7 +322,7 @@
         "heading": "",
         "heading_size": "h1",
         "enable_video_looping": true,
-        "custm_video_url": "https:\/\/www.youtube.com\/embed\/rqqa37AjIoI?autoplay=1&controls=0&showinfo=0&loop=1&mute=1&playlist=rqqa37AjIoI&enablejsapi=1&origin=https%3A%2F%2Fwww.ziolstore.com&widgetid=1",
+        "custm_video_url": "https:\/\/www.youtube.com\/embed\/7UUC21zK6oc?autoplay=1&controls=0&showinfo=0&loop=1&mute=1&playlist=7UUC21zK6oc&enablejsapi=1&origin=https%3A%2F%2Fwww.amphora.com.ar&widgetid=1",
         "video_url": "",
         "description": "",
         "full_width": true,
