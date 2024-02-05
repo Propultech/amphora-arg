@@ -128,7 +128,8 @@
         "column_WfWe9c"
       ],
       "custom_css": [
-        ".multicolumn-card__image {position: relative; top: initial; left: initial; height: initial; width: initial;}"
+        ".multicolumn-card__image {position: relative; top: initial; left: initial; height: initial; width: initial;}",
+        ".media.media--transparent.media--square {padding-bottom: 0!important;}"
       ],
       "settings": {
         "force_full_width": true,
