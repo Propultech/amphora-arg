@@ -62,7 +62,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/1-CARTERAS.webp",
-            "title": "CARTERAS",
+            "title": "",
             "text": "",
             "link_label": "",
             "link": ""
@@ -72,7 +72,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/2-MOCHILAS.webp",
-            "title": "MOCHILAS",
+            "title": "",
             "text": "",
             "link_label": "",
             "link": ""
@@ -82,7 +82,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/3-BANDOLERAS.webp",
-            "title": "BANDOLERAS",
+            "title": "",
             "text": "",
             "link_label": "",
             "link": ""
@@ -92,7 +92,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/5-BILLETERAS.webp",
-            "title": "BILLETERAS",
+            "title": "",
             "text": "",
             "link_label": "",
             "link": ""
@@ -102,7 +102,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/4-CALZADO.webp",
-            "title": "CALZADO",
+            "title": "",
             "text": "",
             "link_label": "",
             "link": ""
@@ -112,7 +112,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/6-ACCESORIOS.webp",
-            "title": "ACCESORIOS",
+            "title": "",
             "text": "",
             "link_label": "",
             "link": ""
@@ -126,6 +126,10 @@
         "column_cK7ygK",
         "column_4HKB9W",
         "column_WfWe9c"
+      ],
+      "custom_css": [
+        ".multicolumn-card__image {position: relative; top: initial; left: initial; height: initial; width: initial;}",
+        ".media.media--transparent.media--square {padding-bottom: 0!important;}"
       ],
       "settings": {
         "force_full_width": true,
