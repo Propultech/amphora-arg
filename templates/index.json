@@ -248,7 +248,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Envi_o_a_Domicilio.webp",
-            "title": "Envío a Domicilio",
+            "title": "<strong>Envío a Domicilio<\/strong>",
             "text": "<p>Recibí tu compra en cualquier parte del país. Envío Express en 48 hs a CABA y GBA<\/p>",
             "link_label": "",
             "link": ""
@@ -258,7 +258,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Cambios_y_Devoluciones.webp",
-            "title": "Cambios y Devoluciones",
+            "title": "<strong>Cambios y Devoluciones<\/strong>",
             "text": "<p>Hasta 30 días después de recibida la compra<\/p>",
             "link_label": "",
             "link": ""
@@ -268,7 +268,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Financiacio_n.webp",
-            "title": "Financiación",
+            "title": "<strong>Financiación<\/strong>",
             "text": "<p>3 Cuotas sin interés <\/p><p>En toda la web<\/p>",
             "link_label": "",
             "link": ""
@@ -278,7 +278,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Pick_up.webp",
-            "title": "Pick Up",
+            "title": "<strong>Pick Up<\/strong>",
             "text": "<p>Sin cargo en tiendas habilitadas<\/p>",
             "link_label": "",
             "link": ""
@@ -292,17 +292,18 @@
         "column_CRbVVD"
       ],
       "custom_css": [
-        ".title-wrapper-with-link {justify-content: center; margin-bottom: 0; margin-top: 50px;}"
+        ".multicolumn {background: #ffffff;}",
+        ".multicolumn-card-spacing {width: 60px; height: 60px;}"
       ],
       "settings": {
         "force_full_width": true,
         "title": "THE ICONS | METALLIC OBSESSION",
         "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 6,
+        "image_width": "half",
+        "image_ratio": "square",
+        "columns_desktop": 4,
         "column_alignment": "center",
-        "background_style": "primary",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "",
