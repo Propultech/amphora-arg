@@ -2,19 +2,45 @@
   "name": "t:sections.header.name",
   "type": "header",
   "sections": {
+    "17101352880c760f27": {
+      "type": "apps",
+      "blocks": {
+        "retail_rocket_personalization_markups_KwNLaX": {
+          "type": "shopify:\/\/apps\/retail-rocket-personalization\/blocks\/markups\/eb06115a-3169-4b5b-a921-16aac205bb7d",
+          "settings": {
+            "rrMarkupCode": "65df8570682ae6945d3f727a",
+            "rrEmptyMarkupCode": ""
+          }
+        }
+      },
+      "block_order": [
+        "retail_rocket_personalization_markups_KwNLaX"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "ENVÍO GRATIS POR COMPRAS SOBRE $49.900, DE ATACAMA A LOS LAGOS.",
+            "text": "SUMMER SALE UP TO 40% OFF + 3 CUOTAS SIN INTERÉS",
+            "link": ""
+          }
+        },
+        "announcement_AdnBNW": {
+          "type": "announcement",
+          "settings": {
+            "text": "ENVÍOS A TODO EL PAÍS | ENVÍO GRATIS EN COMPRAS SUPERIORES A $65.000",
             "link": ""
           }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "announcement_AdnBNW"
       ],
       "settings": {
         "color_scheme": "accent-1",
@@ -46,6 +72,7 @@
     }
   },
   "order": [
+    "17101352880c760f27",
     "announcement-bar",
     "header"
   ]
