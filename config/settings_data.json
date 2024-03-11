@@ -141,7 +141,24 @@
         "type": "shopify:\/\/apps\/retail-rocket-personalization\/blocks\/main-code\/eb06115a-3169-4b5b-a921-16aac205bb7d",
         "disabled": false,
         "settings": {
-          "rrPartnerId": "5f889a3897a525064ceb7947"
+          "rrPartnerId": "65df821dc008a94c6ed57d8e"
+        }
+      },
+      "13699062826762247329": {
+        "type": "shopify:\/\/apps\/retail-rocket-personalization\/blocks\/tracking-codes\/eb06115a-3169-4b5b-a921-16aac205bb7d",
+        "disabled": false,
+        "settings": {
+          "rrExitIntentBar": "65df8570682ae6945d3f727a",
+          "ignoredCollections": [
+            "sale-ss24-10-off",
+            "sale-ss24-20-0ff",
+            "sale-ss24-30-0ff",
+            "sale-ss24-40-0ff",
+            "sale-ss24-50-0ff",
+            "sale-ss24-⚡"
+          ],
+          "tagstosend": "",
+          "metafieldtosend": ""
         }
       }
     },
