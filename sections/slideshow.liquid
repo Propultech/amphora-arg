@@ -8,7 +8,8 @@
       #Slider-{{ section.id }}::before,
       #Slider-{{ section.id }} .media::before,
       #Slider-{{ section.id }}:not(.banner--mobile-bottom) .banner__content::before {
-        padding-bottom: {{ 1 | divided_by: section.blocks.first.settings.image.aspect_ratio | times: 100 }}%;
+        /*padding-bottom: {{ 1 | divided_by: section.blocks.first.settings.image.aspect_ratio | times: 100 }}%;*/
+        padding-bottom: 750px;
         content: '';
         display: block;
       }
@@ -173,7 +174,7 @@
                   assign fetch_priority = 'high'
                 endif
               -%}
-              {%- if forloop.first %}
+              {% comment %} {%- if forloop.first %}
                 {{
                   block.settings.image_mobile
                   | image_url: width: 3840
@@ -185,7 +186,7 @@
                   | image_url: width: 3840
                   | image_tag: loading: 'lazy', height: height, sizes: sizes, widths: widths
                 }}
-              {%- endif -%}
+              {%- endif -%} {% endcomment %}
             </div>
           {%- else -%}
             {%- assign placeholder_slide = forloop.index | modulo: 2 -%}
