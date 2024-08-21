@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin language editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "general": {
     "password_page": {
@@ -525,8 +534,8 @@
   "shopify": {
     "checkout": {
       "contact": {
-        "company_label": "RUT",
-        "optional_company_label": "RUT",
+        "company_label": "DNI",
+        "optional_company_label": "DNI",
         "city_label": "Comuna",
         "zip_code_label": "Número de casa",
         "zip_code_placeholder": "Número de casa",
@@ -538,7 +547,7 @@
         "optional_address2_label": "Detalles adicionales"
       },
       "field_errors": {
-        "address_company_blank": "Introduce un número de RUT",
+        "address_company_blank": "Introduce un número de DNI",
         "address_city_blank": "Introduce una comuna",
         "address_zip_blank": "Introduce un número de casa"
       }
