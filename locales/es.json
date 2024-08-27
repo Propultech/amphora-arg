@@ -536,7 +536,7 @@
       "contact": {
         "company_label": "DNI",
         "optional_company_label": "DNI",
-        "city_label": "Comuna",
+        "city_label": "Ciudad",
         "zip_code_label": "Número de casa",
         "zip_code_placeholder": "Número de casa",
         "postal_code_label": "Número de casa",
@@ -548,7 +548,7 @@
       },
       "field_errors": {
         "address_company_blank": "Introduce un número de DNI",
-        "address_city_blank": "Introduce una comuna",
+        "address_city_blank": "Introduce una ciudad",
         "address_zip_blank": "Introduce un número de casa"
       }
     }
