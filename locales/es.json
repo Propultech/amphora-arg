@@ -537,19 +537,19 @@
         "company_label": "DNI",
         "optional_company_label": "DNI",
         "city_label": "Ciudad",
-        "zip_code_label": "Número de casa",
-        "zip_code_placeholder": "Número de casa",
-        "postal_code_label": "Número de casa",
-        "postal_code_placeholder": "Número de casa",
-        "postcode_label": "Número de casa",
-        "postcode_placeholder": "Número de casa",
+        "zip_code_label": "Código postal",
+        "zip_code_placeholder": "Código postal",
+        "postal_code_label": "Código postal",
+        "postal_code_placeholder": "Código postal",
+        "postcode_label": "Código postal",
+        "postcode_placeholder": "Código postal",
         "address2_label": "Detalles adicionales",
         "optional_address2_label": "Detalles adicionales"
       },
       "field_errors": {
         "address_company_blank": "Introduce un número de DNI",
         "address_city_blank": "Introduce una ciudad",
-        "address_zip_blank": "Introduce un número de casa"
+        "address_zip_blank": "Introduce un código postal"
       }
     }
   }
