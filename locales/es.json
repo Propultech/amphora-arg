@@ -543,8 +543,8 @@
         "postal_code_placeholder": "Código postal",
         "postcode_label": "Código postal",
         "postcode_placeholder": "Código postal",
-        "address2_label": "Detalles adicionales",
-        "optional_address2_label": "Detalles adicionales"
+        "address2_label": "Número",
+        "optional_address2_label": "Número"
       },
       "field_errors": {
         "address_company_blank": "Introduce un número de DNI",
