@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "name": "t:sections.header.name",
   "type": "header",
@@ -26,20 +35,28 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "SUMMER SALE UP TO 40% OFF + 3 CUOTAS SIN INTERÉS",
+            "text": "SALE UP TO 50% OFF ¡ÚLTIMOS DÍAS!",
+            "link": ""
+          }
+        },
+        "announcement_tdTqhN": {
+          "type": "announcement",
+          "settings": {
+            "text": "3 CUOTAS SIN INTERÉS | 6 CUOTAS SIN INTERÉS EN COMPRAS SUPERIORES A $ 50.000",
             "link": ""
           }
         },
         "announcement_AdnBNW": {
           "type": "announcement",
           "settings": {
-            "text": "ENVÍOS A TODO EL PAÍS | ENVÍO GRATIS EN COMPRAS SUPERIORES A $65.000",
+            "text": "ENVÍOS A TODO EL PAÍS | ENVÍO GRATIS EN COMPRAS SUPERIORES A $100.000",
             "link": ""
           }
         }
       },
       "block_order": [
         "announcement-bar-0",
+        "announcement_tdTqhN",
         "announcement_AdnBNW"
       ],
       "settings": {

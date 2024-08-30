@@ -15,7 +15,8 @@
         "6565bc0f-3939-488b-909e-7616f7e59da3": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Banner_principal_desk_1.jpg",
+            "image": "shopify:\/\/shop_images\/Banner_FinalSale_DK.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Banner_FinalSale_Mobile.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
@@ -29,29 +30,10 @@
             "color_scheme": "scheme-1",
             "text_alignment_mobile": "center"
           }
-        },
-        "40d36210-86aa-4bbd-bbc6-78998c425c99": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/dk_1.jpg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-right",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
-        "6565bc0f-3939-488b-909e-7616f7e59da3",
-        "40d36210-86aa-4bbd-bbc6-78998c425c99"
+        "6565bc0f-3939-488b-909e-7616f7e59da3"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -212,7 +194,7 @@
         "column_DWi7AV": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/bannerx2_desk_1.webp",
+            "image": "shopify:\/\/shop_images\/banner_X2_2000x2000_Desk01_1.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -222,7 +204,7 @@
         "column_wnPTM8": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/bannerx2_desk_2.webp",
+            "image": "shopify:\/\/shop_images\/banner_X2_2000x2000_Desk01_1_865063c9-08c4-48f9-9077-67b0f55f78fe.jpg",
             "title": "",
             "text": "",
             "link_label": "",
