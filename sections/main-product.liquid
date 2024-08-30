@@ -636,14 +636,9 @@
                 {% render 'icon-caret' %}
               </summary>
               <div class="accordion__content rte" id="ProductAccordion-{{ block.id }}-{{ section.id }}">
-                {% if product.metafields.global.formato != blank %}
+                {% if product.metafields.global.color != blank %}
                   <div>
-                    <strong>Formato:</strong> <span>{{ product.metafields.global.formato.value }}</span>
-                  </div>
-                {% endif %}
-                {% if product.metafields.global.nombre_style != blank %}
-                  <div>
-                    <strong>Nombre producto:</strong> <span>{{ product.metafields.global.nombre_style.value }}</span>
+                    <strong>Color:</strong> <span>{{ product.metafields.global.color.value }}</span>
                   </div>
                 {% endif %}
                 {% if product.metafields.global.alto != blank %}
@@ -661,162 +656,92 @@
                     <strong>Fuelle:</strong> <span>{{ product.metafields.global.fuelle.value }}</span>
                   </div>
                 {% endif %}
-                {% if product.metafields.global.litros != blank %}
+                {% if product.metafields.global.tamanio != blank %}
                   <div>
-                    <strong>Litros:</strong> <span>{{ product.metafields.global.litros.value }}</span>
+                    <strong>Tamaño:</strong> <span>{{ product.metafields.global.tamanio.value }}</span>
                   </div>
                 {% endif %}
-                {% if product.metafields.global.altura_taco != blank %}
+                {% if product.metafields.global.material != blank %}
                   <div>
-                    <strong>Altura taco:</strong> <span>{{ product.metafields.global.altura_taco.value }} CM</span>
+                    <strong>Material:</strong> <span>{{ product.metafields.global.material.value }}</span>
                   </div>
                 {% endif %}
-                {% if product.metafields.global.altura_plataforma != blank %}
+                {% if product.metafields.global.acabado_material_externo != blank %}
                   <div>
-                    <strong>Altura plataforma:</strong>
-                    <span>{{ product.metafields.global.altura_plataforma.value }} CM</span>
+                    <strong>Acabado material externo:</strong> <span>{{ product.metafields.global.acabado_material_externo.value }}</span>
                   </div>
                 {% endif %}
-                {% if product.metafields.global.altura_correa != blank %}
+                 {% if product.metafields.global.herrajes != blank %}
                   <div>
-                    <strong>Altura correa:</strong> <span>{{ product.metafields.global.altura_correa.value }} CM</span>
+                    <strong>Herrajes:</strong> <span>{{ product.metafields.global.herrajes.value }}</span>
                   </div>
                 {% endif %}
-                {% if product.metafields.global.altura_cania != blank %}
+                 {% if product.metafields.global.material_forreria != blank %}
                   <div>
-                    <strong>Altura caña:</strong> <span>{{ product.metafields.global.altura_cania.value }} CM</span>
+                    <strong>Material forreria:</strong> <span>{{ product.metafields.global.material_forreria.value }}</span>
                   </div>
                 {% endif %}
-                {% if product.metafields.global.altura_correa != blank %}
+                 {% if product.metafields.global.color_forreria != blank %}
                   <div>
-                    <strong>Altura correa:</strong> <span>{{ product.metafields.global.altura_correa.value }} CM</span>
+                    <strong>Color forreria:</strong> <span>{{ product.metafields.global.color_forreria.value }}</span>
                   </div>
                 {% endif %}
-                {% if product.metafields.global.correa_ajustable != blank %}
+                 {% if product.metafields.global.bolsillos_externos != blank %}
                   <div>
-                    <strong>Correa ajustable:</strong>
-                    <span>{{ product.metafields.global.correa_ajustable.value }}</span>
+                    <strong>Bolsillos externos:</strong> <span>{{ product.metafields.global.bolsillos_externos.value }}</span>
                   </div>
                 {% endif %}
-                {% if product.metafields.global.compartimiento_notebook != blank %}
+                 {% if product.metafields.global.bolsillos_interiores != blank %}
                   <div>
-                    <strong>Compartimiento notebook:</strong>
-                    <span>{{ product.metafields.global.compartimiento_notebook.value }}</span>
+                    <strong>Bolsillo interiores:</strong> <span>{{ product.metafields.global.bolsillos_interiores.value }}</span>
                   </div>
                 {% endif %}
-                {% if product.metafields.global.pulgadas_notebook != blank %}
+                 {% if product.metafields.global.compartimento_interior != blank %}
                   <div>
-                    <strong>Pulgadas notebook:</strong>
-                    <span>{{ product.metafields.global.pulgadas_notebook.value }}</span>
+                    <strong>Compartimento interior:</strong> <span>{{ product.metafields.global.compartimento_interior.value }}</span>
                   </div>
                 {% endif %}
-                {% if product.metafields.global.cierres_interiores != blank %}
+                 {% if product.metafields.global.compartimento_notebook != blank %}
                   <div>
-                    <strong>Cierres interiores:</strong>
-                    <span>{{ product.metafields.global.cierres_interiores.value }}</span>
+                    <strong>Compartimento notebook:</strong> <span>{{ product.metafields.global.compartimento_notebook.value }}</span>
                   </div>
                 {% endif %}
-                {% if product.metafields.global.cierres_exteriores != blank %}
+                 {% if product.metafields.global.acceso_sistema_de_apertura != blank %}
                   <div>
-                    <strong>Cierres exteriores:</strong>
-                    <span>{{ product.metafields.global.cierres_exteriores.value }}</span>
+                    <strong>Acceso sistema de apertura:</strong> <span>{{ product.metafields.global.acceso_sistema_de_apertura.value }}</span>
                   </div>
                 {% endif %}
-                {% if product.metafields.global.bolsillos_interiores != blank %}
+                 {% if product.metafields.global.medida_asa != blank %}
                   <div>
-                    <strong>Bolsillos interiores:</strong>
-                    <span>{{ product.metafields.global.bolsillos_interiores.value }}</span>
+                    <strong>Medida asa:</strong> <span>{{ product.metafields.global.medida_asa.value }}</span>
                   </div>
                 {% endif %}
-                {% if product.metafields.global.bolsillos_exteriores != blank %}
+                 {% if product.metafields.global.correa_extraible != blank %}
                   <div>
-                    <strong>Bolsillos exteriores:</strong>
-                    <span>{{ product.metafields.global.bolsillos_exteriores.value }}</span>
+                    <strong>Correa extraible:</strong> <span>{{ product.metafields.global.correa_extraible.value }}</span>
                   </div>
                 {% endif %}
-                {% if product.metafields.global.bolsillo_trasero != blank %}
+                 {% if product.metafields.global.largo_correa != blank %}
                   <div>
-                    <strong>Bolsillo trasero:</strong>
-                    <span>{{ product.metafields.global.bolsillo_trasero.value }}</span>
+                    <strong>Largo correa:</strong> <span>{{ product.metafields.global.largo_correa.value }}</span>
                   </div>
                 {% endif %}
-                {% if product.metafields.global.con_monedero != blank %}
+                 {% if product.metafields.global.correa_regulable != blank %}
                   <div>
-                    <strong>Con monedero:</strong> <span>{{ product.metafields.global.con_monedero.value }}</span>
+                    <strong>Correa regulable:</strong> <span>{{ product.metafields.global.correa_regulable.value }}</span>
                   </div>
                 {% endif %}
-                {% if product.metafields.global.accesorio_adicional != blank %}
+                 {% if product.metafields.global.accesorios_incluidos != blank %}
                   <div>
-                    <strong>Accesorio adicional:</strong>
-                    <span>{{ product.metafields.global.accesorio_adicional.value }}</span>
+                    <strong>Accesorios incluídos:</strong> <span>{{ product.metafields.global.accesorios_incluidos.value }}</span>
                   </div>
                 {% endif %}
-                {% if product.metafields.global.acabado_del_metal != blank %}
+                 {% if product.metafields.global.proteccion_rfid != blank %}
                   <div>
-                    <strong>Acabado del metal:</strong>
-                    <span>{{ product.metafields.global.acabado_del_metal.value }}</span>
+                    <strong>Protección rfid:</strong> <span>{{ product.metafields.global.proteccion_rfid.value }}</span>
                   </div>
                 {% endif %}
-                {% if product.metafields.global.tipo_apertura != blank %}
-                  <div>
-                    <strong>Tipo apertura:</strong> <span>{{ product.metafields.global.tipo_apertura.value }}</span>
-                  </div>
-                {% endif %}
-                {% if product.metafields.global.filtro_material != blank %}
-                  <div>
-                    <strong>Material:</strong> <span>{{ product.metafields.global.filtro_material.value }}</span>
-                  </div>
-                {% endif %}
-                {% if product.metafields.global.material_plantilla != blank %}
-                  <div>
-                    <strong>Material plantilla:</strong>
-                    <span>{{ product.metafields.global.material_plantilla.value }}</span>
-                  </div>
-                {% endif %}
-                {% if product.metafields.global.material_forro != blank %}
-                  <div>
-                    <strong>Material forro:</strong>
-                    <span>{{ product.metafields.global.material_forro.value }}</span>
-                  </div>
-                {% endif %}
-                {% if product.metafields.global.material_suela != blank %}
-                  <div>
-                    <strong>Material suela:</strong> <span>{{ product.metafields.global.material_suela.value }}</span>
-                  </div>
-                {% endif %}
-                {% if product.metafields.global.material_capellada != blank %}
-                  <div>
-                    <strong>Material capellada:</strong>
-                    <span>{{ product.metafields.global.material_capellada.value }}</span>
-                  </div>
-                {% endif %}
-                {% if product.metafields.global.textura != blank %}
-                  <div>
-                    <strong>Textura:</strong> <span>{{ product.metafields.global.textura.value }}</span>
-                  </div>
-                {% endif %}
-                {% if product.metafields.global.genero != blank %}
-                  <div>
-                    <strong>Genero:</strong> <span>{{ product.metafields.global.genero.value }}</span>
-                  </div>
-                {% endif %}
-                {% if product.metafields.global.filtro_uv != blank %}
-                  <div>
-                    <strong>Filtro uv:</strong> <span>{{ product.metafields.global.filtro_uv.value }}</span>
-                  </div>
-                {% endif %}
-                {% if product.metafields.global.correa_intercambiable != blank %}
-                  <div>
-                    <strong>Correa intercambiable:</strong>
-                    <span>{{ product.metafields.global.correa_intercambiable.value }}</span>
-                  </div>
-                {% endif %}
-                {% if product.metafields.global.correa_ajustable != blank %}
-                  <div>
-                    <strong>Correa ajustable:</strong>
-                    <span>{{ product.metafields.global.correa_ajustable.value }}</span>
-                  </div>
-                {% endif %}
+                                
               </div>
             </details>
           </div>
