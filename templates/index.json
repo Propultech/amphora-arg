@@ -146,7 +146,7 @@
         ".banner--content-align-mobile-center {margin-top: 50px;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Banner_Secundario_desk.jpg",
+        "image": "shopify:\/\/shop_images\/Banners_Secundarios_Desk_01_1.jpg",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
@@ -204,7 +204,7 @@
         "column_wnPTM8": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner_X2_2000x2000_Desk01_1_865063c9-08c4-48f9-9077-67b0f55f78fe.jpg",
+            "image": "shopify:\/\/shop_images\/banner_X2_2000x2000_Desk02_1.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -263,7 +263,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Financiacio_n.webp",
             "title": "<strong>Financiación<\/strong>",
-            "text": "<p>3 Cuotas sin interés <\/p><p>En toda la web<\/p>",
+            "text": "<p>3 & 6* Cuotas sin interés <\/p><p>*En compras superiores a $ 50.000<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -335,8 +335,8 @@
         "heading": "",
         "heading_size": "h1",
         "enable_video_looping": true,
-        "custm_video_url": "https:\/\/www.youtube.com\/embed\/7UUC21zK6oc?autoplay=1&controls=0&showinfo=0&loop=1&mute=1&playlist=7UUC21zK6oc&enablejsapi=1&origin=https%3A%2F%2Fwww.amphora.com.ar&widgetid=1",
-        "video_url": "",
+        "custm_video_url": "",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=F0NdpNXrIG4",
         "description": "",
         "full_width": true,
         "color_scheme": "",
