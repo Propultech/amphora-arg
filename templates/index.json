@@ -124,7 +124,7 @@
       "settings": {
         "force_full_width": true,
         "title": "Shop by Category",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 6,
@@ -161,26 +161,6 @@
     },
     "image_banner_H8BiDg": {
       "type": "image-banner",
-      "blocks": {
-        "heading_ePyQrR": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "text_XMmCaC": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_ePyQrR",
-        "text_XMmCaC"
-      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Banners_joyeria_Desk_V02.jpg",
         "image_overlay_opacity": 0,
