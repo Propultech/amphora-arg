@@ -119,12 +119,13 @@
         "column_WfWe9c"
       ],
       "custom_css": [
-
+        ".animate--slide-in {margin-bottom: 25px;}",
+        ".h0 {margin: 0 auto; font-weight: 300; margin-top: 35px; color: #3c3c3b; font-size: 30px;}"
       ],
       "settings": {
         "force_full_width": true,
-        "title": "Shop by Category",
-        "heading_size": "h1",
+        "title": "<strong>Shop by Category<\/strong>",
+        "heading_size": "h0",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 6,
