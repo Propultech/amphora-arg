@@ -29,22 +29,8 @@
           "type": "buttons",
           "settings": {
           }
-        }
-      },
-      "block_order": [
-        "subtotal",
-        "buttons"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 40
-      }
-    },
-    "172537861194153002": {
-      "type": "apps",
-      "blocks": {
-        "zapiet_pickup_delivery_delivery_validator_VjPDkD": {
+        },
+        "zapiet_pickup_delivery_delivery_validator_fh6xT4": {
           "type": "shopify:\/\/apps\/zapiet-pickup-delivery\/blocks\/delivery-validator\/5599aff0-8af1-473a-a372-ecd72a32b4d5",
           "settings": {
             "show_on_page_load": true,
@@ -53,10 +39,14 @@
         }
       },
       "block_order": [
-        "zapiet_pickup_delivery_delivery_validator_VjPDkD"
+        "subtotal",
+        "buttons",
+        "zapiet_pickup_delivery_delivery_validator_fh6xT4"
       ],
       "settings": {
-        "include_margins": true
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40
       }
     },
     "170498624310901052": {
@@ -110,7 +100,6 @@
   "order": [
     "cart-items",
     "cart-footer",
-    "172537861194153002",
     "170498624310901052",
     "featured-collection"
   ]
