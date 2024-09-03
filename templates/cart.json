@@ -29,19 +29,11 @@
           "type": "buttons",
           "settings": {
           }
-        },
-        "zapiet_pickup_delivery_delivery_validator_fh6xT4": {
-          "type": "shopify:\/\/apps\/zapiet-pickup-delivery\/blocks\/delivery-validator\/5599aff0-8af1-473a-a372-ecd72a32b4d5",
-          "settings": {
-            "show_on_page_load": true,
-            "sticky": true
-          }
         }
       },
       "block_order": [
         "subtotal",
-        "buttons",
-        "zapiet_pickup_delivery_delivery_validator_fh6xT4"
+        "buttons"
       ],
       "settings": {
         "color_scheme": "",
