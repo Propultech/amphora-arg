@@ -544,12 +544,20 @@
         "postcode_label": "Código postal",
         "postcode_placeholder": "Código postal",
         "address2_label": "Número",
-        "optional_address2_label": "Número"
+        "optional_address2_label": "Número",
+        "address_title": "Dirección (calle y número)",
+        "address1_label": "Dirección (calle y número)"
       },
       "field_errors": {
         "address_company_blank": "Introduce un número de DNI",
         "address_city_blank": "Introduce una ciudad",
         "address_zip_blank": "Introduce un código postal"
+      },
+      "pickup_point": {
+        "address_label": "Dirección (calle y número)"
+      },
+      "local_pickup": {
+        "location_address_search_label": "Dirección (calle y número)"
       }
     }
   }
