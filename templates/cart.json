@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "cart-items": {
@@ -30,6 +39,24 @@
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 40
+      }
+    },
+    "172537861194153002": {
+      "type": "apps",
+      "blocks": {
+        "zapiet_pickup_delivery_delivery_validator_VjPDkD": {
+          "type": "shopify:\/\/apps\/zapiet-pickup-delivery\/blocks\/delivery-validator\/5599aff0-8af1-473a-a372-ecd72a32b4d5",
+          "settings": {
+            "show_on_page_load": true,
+            "sticky": true
+          }
+        }
+      },
+      "block_order": [
+        "zapiet_pickup_delivery_delivery_validator_VjPDkD"
+      ],
+      "settings": {
+        "include_margins": true
       }
     },
     "170498624310901052": {
@@ -83,6 +110,7 @@
   "order": [
     "cart-items",
     "cart-footer",
+    "172537861194153002",
     "170498624310901052",
     "featured-collection"
   ]
