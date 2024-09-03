@@ -14,10 +14,6 @@
   }
 }
 
-.card__content {
-  position: relative !important;
-}
-
 .card--card .quick-add {
   margin: 0 1.3rem 1rem;
 }
