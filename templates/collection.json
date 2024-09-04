@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "banner": {
@@ -45,30 +54,11 @@
         "padding_top": 0,
         "padding_bottom": 36
       }
-    },
-    "17101354705087abe0": {
-      "type": "apps",
-      "blocks": {
-        "retail_rocket_personalization_markups_Gj3FQQ": {
-          "type": "shopify:\/\/apps\/retail-rocket-personalization\/blocks\/markups\/eb06115a-3169-4b5b-a921-16aac205bb7d",
-          "settings": {
-            "rrMarkupCode": "65df86488e6a3ed9214d7acb",
-            "rrEmptyMarkupCode": ""
-          }
-        }
-      },
-      "block_order": [
-        "retail_rocket_personalization_markups_Gj3FQQ"
-      ],
-      "settings": {
-        "include_margins": true
-      }
     }
   },
   "order": [
     "banner",
     "17049860622c097c18",
-    "product-grid",
-    "17101354705087abe0"
+    "product-grid"
   ]
 }
