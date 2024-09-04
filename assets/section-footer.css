@@ -2,6 +2,19 @@
   border-top: 0.1rem solid rgba(var(--color-foreground), 0.08);
 }
 
+.footer .container-imgs {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+.footer .container-imgs img {
+  width: auto;
+  max-height: 70px;
+}
+
 .footer:not(.color-scheme-1) {
   border-top: none;
 }

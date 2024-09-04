@@ -250,9 +250,16 @@
       <div class="copy"><span>© 2024. Todos los derechos reservados.</span></div>
     </div>
     <div>
-      <img class="image-payment" src="{{ 'medio-de-pago-footer.png' | asset_url }}" width="150px" alt="">
+      <div class="container-imgs">
+        <img class="image-payment" src="{{ 'medio-de-pago-footer.png' | asset_url }}" width="150px" alt="">
+        <img
+        src="https://cdn.shopify.com/s/files/1/0631/9908/4727/files/data-fiscal.png?v=1725314680"
+        width="100px"
+        height=""
+        alt="Data Fiscal"
+        >
+        </div>
     </div>
-
   </div>
   <div
     class="footer__content-bottom{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}"
