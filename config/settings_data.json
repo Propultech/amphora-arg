@@ -146,13 +146,6 @@
 
     ],
     "blocks": {
-      "3162008616520556380": {
-        "type": "shopify:\/\/apps\/retail-rocket-personalization\/blocks\/main-code\/eb06115a-3169-4b5b-a921-16aac205bb7d",
-        "disabled": false,
-        "settings": {
-          "rrPartnerId": "65df821dc008a94c6ed57d8e"
-        }
-      },
       "13699062826762247329": {
         "type": "shopify:\/\/apps\/retail-rocket-personalization\/blocks\/tracking-codes\/eb06115a-3169-4b5b-a921-16aac205bb7d",
         "disabled": false,
@@ -174,6 +167,13 @@
         "type": "shopify:\/\/apps\/dondy-whatsapp-chat-marketing\/blocks\/app-block\/7f5a70cb-e171-4cc7-ac02-e2220203abd6",
         "disabled": false,
         "settings": {
+        }
+      },
+      "3162008616520556380": {
+        "type": "shopify:\/\/apps\/retail-rocket-personalization\/blocks\/main-code\/eb06115a-3169-4b5b-a921-16aac205bb7d",
+        "disabled": false,
+        "settings": {
+          "rrPartnerId": "5f889a3897a525064ceb7947"
         }
       }
     },
