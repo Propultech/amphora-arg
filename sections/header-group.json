@@ -32,13 +32,6 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement-bar-0": {
-          "type": "announcement",
-          "settings": {
-            "text": "SALE UP TO 50% OFF ¡ÚLTIMOS DÍAS!",
-            "link": ""
-          }
-        },
         "announcement_tdTqhN": {
           "type": "announcement",
           "settings": {
@@ -55,7 +48,6 @@
         }
       },
       "block_order": [
-        "announcement-bar-0",
         "announcement_tdTqhN",
         "announcement_AdnBNW"
       ],
