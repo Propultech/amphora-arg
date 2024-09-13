@@ -15,13 +15,13 @@
         "slide_tdpzbU": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/NUEVO.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/MB.gif",
+            "image": "shopify:\/\/shop_images\/Banners_SS25_Desk_new_1.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Banners_SS25_Mobile_new_1.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "",
-            "link": "shopify:\/\/collections\/final-sale",
+            "link": "shopify:\/\/collections\/preview-ss25",
             "button_style_secondary": false,
             "box_align": "bottom-left",
             "show_text_box": true,
@@ -147,13 +147,13 @@
         "6565bc0f-3939-488b-909e-7616f7e59da3": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Banners_SS25_Desk.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Banners_SS25_Mobile.jpg",
+            "image": "shopify:\/\/shop_images\/principal_dk_copia_28-100.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/principal_mb_copia_14-100.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "",
-            "link": "shopify:\/\/collections\/preview-ss25",
+            "link": "shopify:\/\/collections\/final-sale",
             "button_style_secondary": false,
             "box_align": "bottom-left",
             "show_text_box": true,
