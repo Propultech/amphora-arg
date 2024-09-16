@@ -16,7 +16,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/Banners_SS25_Desk_new_2.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Banners_SS25_Mobile_new_2.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Banners_SS25_Mobile_new_1.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
@@ -147,7 +147,7 @@
         "6565bc0f-3939-488b-909e-7616f7e59da3": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/principal_dk_copia_28-100.jpg",
+            "image": "shopify:\/\/shop_images\/banner-dk.jpg",
             "image_mobile": "shopify:\/\/shop_images\/principal_mb_copia_14-100.jpg",
             "heading": "",
             "heading_size": "h2",
@@ -287,7 +287,7 @@
         "column_DWi7AV": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner_X2_2000x2000_Desk01_1.jpg",
+            "image": "shopify:\/\/shop_images\/banner_X2_desk_V01_1.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -297,7 +297,7 @@
         "column_wnPTM8": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner_X2_2000x2000_Desk02_1.jpg",
+            "image": "shopify:\/\/shop_images\/banner_X2_desk_V01_2_1.jpg",
             "title": "",
             "text": "",
             "link_label": "",
