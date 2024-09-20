@@ -32,6 +32,13 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_rFHezB": {
+          "type": "announcement",
+          "settings": {
+            "text": "DEL VIERNES 20 AL DOMINGO 22-09 | 9 CUOTAS SIN INTERÉS EN COMPRAS SUPERIORES A $ 80.000",
+            "link": ""
+          }
+        },
         "announcement_tdTqhN": {
           "type": "announcement",
           "settings": {
@@ -48,6 +55,7 @@
         }
       },
       "block_order": [
+        "announcement_rFHezB",
         "announcement_tdTqhN",
         "announcement_AdnBNW"
       ],
