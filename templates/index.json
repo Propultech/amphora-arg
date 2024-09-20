@@ -15,6 +15,25 @@
         "slide_tdpzbU": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/principal_dk_copia_31-100.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/principal_mb_copia_19-100.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify:\/\/collections\/preview-ss25",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_CNkEgp": {
+          "type": "slide",
+          "settings": {
             "image": "shopify:\/\/shop_images\/Banners_SS25_Desk_new_3.jpg",
             "image_mobile": "shopify:\/\/shop_images\/Banners_SS25_Mobile_new_3.jpg",
             "heading": "",
@@ -33,7 +52,8 @@
         }
       },
       "block_order": [
-        "slide_tdpzbU"
+        "slide_tdpzbU",
+        "slide_CNkEgp"
       ],
       "settings": {
         "layout": "full_bleed",
