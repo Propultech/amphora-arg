@@ -307,17 +307,17 @@
         "column_DWi7AV": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner_X2_01.jpg",
+            "image": "shopify:\/\/shop_images\/banner_X2_01_1.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/collections\/carteras"
+            "link": "shopify:\/\/collections\/new-in-bandolera"
           }
         },
         "column_wnPTM8": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner_X2_02.jpg",
+            "image": "shopify:\/\/shop_images\/banner_X2_02_1.jpg",
             "title": "",
             "text": "",
             "link_label": "",
