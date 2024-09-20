@@ -193,8 +193,8 @@
         "slide_4pMmiD": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Banners_Rebajas_Desk_V01.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Banners_Rebajas_Mobile_V02.jpg",
+            "image": "shopify:\/\/shop_images\/Banners_Rebajas_Desk.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Banners_Rebajas_Mobile.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
