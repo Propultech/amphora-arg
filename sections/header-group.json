@@ -13,18 +13,6 @@
   "sections": {
     "17101352880c760f27": {
       "type": "apps",
-      "blocks": {
-        "retail_rocket_personalization_markups_KwNLaX": {
-          "type": "shopify:\/\/apps\/retail-rocket-personalization\/blocks\/markups\/eb06115a-3169-4b5b-a921-16aac205bb7d",
-          "settings": {
-            "rrMarkupCode": "65df8570682ae6945d3f727a",
-            "rrEmptyMarkupCode": ""
-          }
-        }
-      },
-      "block_order": [
-        "retail_rocket_personalization_markups_KwNLaX"
-      ],
       "settings": {
         "include_margins": true
       }
