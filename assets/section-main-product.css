@@ -2,9 +2,9 @@
   display: inline;
   background-color: transparent;
   border: black;
-  border: var(--variant-pills-border-width) solid rgba(var(--color-foreground), var(--variant-pills-border-opacity));
+  /* border: var(--variant-pills-border-width) solid rgba(var(--color-foreground), var(--variant-pills-border-opacity)); */
   height: 70px;
-  margin-left: 5px;
+  /* margin-left: 5px; */
   text-decoration: none;
 }
 
@@ -243,8 +243,8 @@ fieldset.product-form__input .form__label {
 }
 
 .product-form__input input[type='radio']+label.label-color {
-  border-radius: 0 0 0 0;
-  padding: 5px;
+  border-radius: 0;
+  padding: 0;
 }
 
 .product-form__input input[type='radio']+label:before {
@@ -1806,8 +1806,9 @@ div[id^="price-template"] {
 .related-products__heading {
   text-align: center;
 }
+
 ul.product-grid li .price__badge-sale {
-    position: absolute;
-    top: 10px;
-    left: 10px;
+  position: absolute;
+  top: 10px;
+  left: 10px;
 }
