@@ -12,6 +12,25 @@
     "slideshow_aBFHpA": {
       "type": "slideshow",
       "blocks": {
+        "slide_Reiz4b": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/DK_1_d7c0b109-b682-44d1-8bc0-a96cf455d785.jpg",
+            "image_mobile": "shopify://shop_images/MB_3.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://collections/preview-ss25",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "slide_tdpzbU": {
           "type": "slide",
           "settings": {
@@ -30,30 +49,11 @@
             "color_scheme": "scheme-1",
             "text_alignment_mobile": "center"
           }
-        },
-        "slide_Reiz4b": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/Banners_Rebajas_Desk_b79614a3-d7ac-47fe-b233-2d46e0519773.jpg",
-            "image_mobile": "shopify://shop_images/Banners_Rebajas_Mobile_7c973bab-2c7c-4003-932b-22930f2ca305.jpg",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify://collections/preview-ss25",
-            "button_style_secondary": false,
-            "box_align": "bottom-left",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
-        "slide_tdpzbU",
-        "slide_Reiz4b"
+        "slide_Reiz4b",
+        "slide_tdpzbU"
       ],
       "settings": {
         "layout": "full_bleed",

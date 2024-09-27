@@ -20,6 +20,13 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_C8jaUM": {
+          "type": "announcement",
+          "settings": {
+            "text": "9 CUOTAS SIN INTERÉS EN COMPRAS SUPERIORES A $ 80.000",
+            "link": ""
+          }
+        },
         "announcement_tdTqhN": {
           "type": "announcement",
           "settings": {
@@ -36,6 +43,7 @@
         }
       },
       "block_order": [
+        "announcement_C8jaUM",
         "announcement_tdTqhN",
         "announcement_AdnBNW"
       ],
