@@ -34,28 +34,22 @@
                 {% if product_similar.metafields.global.style.value == style %}
                   {% unless item_id contains product_similar.handle %}
                     {% assign item_id = item_id | append: ' : ' | append: product_similar.handle %}
-                    {% render 'product-variant-options',
-                      product: product,
-                      option: option,
-                      block: block,
-                      image_option: product_similar.featured_image,
-                      product_url: product_similar.url
-                    %}
+                    <a class="link" href="{{ product_similar.url }}">
+                      <img
+                        class="relations-sku {% if product.handle == product_similar.handle %}active{% endif %}"
+                        src="{{ product_similar.featured_image | product_img_url: 'small' }}"
+                      >
+                    </a>
                   {% endunless %}
                 {% endif %}
               {% endfor %}
             {% endfor %}
           </fieldset>
         {% else %}
-          {% unless option.name == 'Color' %}
-            {% assign count_2_options = option.values.size %}
-          {% endunless %}
-          {% if count_2_options > 1 %}
-            <fieldset class="js product-form__input">
-              <legend class="form__label">{{ option.name }}</legend>
-              {% render 'product-variant-options', product: product, option: option, block: block %}
-            </fieldset>
-          {% endif %}
+          <fieldset class="js product-form__input">
+            <legend class="form__label">{{ option.name }}</legend>
+            {% render 'product-variant-options', product: product, option: option, block: block %}
+          </fieldset>
         {% endif %}
       {%- endfor -%}
       <script type="application/json">
