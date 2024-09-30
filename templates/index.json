@@ -15,8 +15,8 @@
         "slide_Reiz4b": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Desk.jpg",
-            "image_mobile": "shopify://shop_images/Mobile.jpg",
+            "image": "shopify://shop_images/BANNER-DK.gif",
+            "image_mobile": "shopify://shop_images/BANNER-MB.gif",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
