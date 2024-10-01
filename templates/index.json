@@ -12,25 +12,6 @@
     "slideshow_aBFHpA": {
       "type": "slideshow",
       "blocks": {
-        "slide_Reiz4b": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/BANNER-DK.gif",
-            "image_mobile": "shopify://shop_images/BANNER-MB.gif",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify://collections/preview-ss25",
-            "button_style_secondary": false,
-            "box_align": "bottom-left",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
-        },
         "slide_tdpzbU": {
           "type": "slide",
           "settings": {
@@ -52,7 +33,6 @@
         }
       },
       "block_order": [
-        "slide_Reiz4b",
         "slide_tdpzbU"
       ],
       "settings": {
