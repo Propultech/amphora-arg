@@ -53,23 +53,45 @@
       value="{{ value | escape }}"
       form="{{ product_form_id }}"
       class="product-option product-option-color{% if option_disabled %} disabled{% endif %}"
-      {% if option.selected_value == value %}
-        checked
-      {% endif %}
+      {%- if option.name == 'color' -%}
+        {% if product_url == request.path %}
+          checked
+        {% endif %}
+      {%- else -%}
+        {% if option.selected_value == value %}
+          checked
+        {% endif %}
+      {%- endif -%}
     >
 
     <label
       for="{{ section.id }}-{{ option.position }}-{{ forloop.index0 }}"
-      class="{%- if option.name == 'Color' -%}label-color{%- endif -%}"
+      class="{%- if option.name == 'Color' -%}label-color{% endif %}"
+      style="{%- if option.name == 'Color' -%}line-height:0;{% endif %}"
     >
       {% if option.name == 'Color' %}
-        {% if image_option %}
-          <a class="link" href="{{ product_url }}">
+        {%- if product.title == 'BANDOLERA DELIA ROJO' or product.title == 'BANDOLERA DELIA NEGRO' -%}
+          <a class="link" href="{{ product.url }}">
             <img
-              class="relations-sku"
-              src="{{ image_option | product_img_url: 'small' }}"
+              class="relations-sku active"
+              src="{{ product.featured_image | img_url: 'small' }}"
+              alt="{{ product.featured_image.alt }}"
             >
           </a>
+        {%- else -%}
+          {% if image_option %}
+            <a class="link" href="{{ product_url }}">
+              <img
+                class="
+                  relations-sku
+                  {% if product_url == request.path %}active{%- endif -%}
+                "
+                width=""
+                height=""
+                src="{{ image_option | product_img_url: 'small' }}"
+              >
+            </a>
+          {% endif %}
         {% endif %}
 
         {% for variant in product.variants %}
@@ -77,7 +99,7 @@
             {%- if variant.featured_image.src -%}
               <img src="{{ variant.featured_image.src | img_url: '60x' }}">
             {%- else -%}
-              <span style="color: #000;">{{ variant.title }}</span>
+              {% comment %} <span style="color: #000;">{{ variant.title }}</span> {% endcomment %}
             {%- endif -%}
             {% break %}
           {% endif %}
