@@ -22,6 +22,7 @@
       "blocks": {
         "announcement_C8jaUM": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "¡SÓLO POR HOY! 25% OFF EN TODA LA WEB",
             "link": ""
