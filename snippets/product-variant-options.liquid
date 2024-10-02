@@ -70,7 +70,10 @@
       style="{%- if option.name == 'Color' -%}line-height:0;{% endif %}"
     >
       {% if option.name == 'Color' %}
-        {%- if product.title == 'BANDOLERA DELIA ROJO' or product.title == 'BANDOLERA DELIA NEGRO' -%}
+        {%- if product.title == 'BANDOLERA DELIA ROJO'
+          or product.title == 'BANDOLERA DELIA NEGRO'
+          or product.title == 'BANDOLERA KEIRA PLATEADO'
+        -%}
           <a class="link" href="{{ product.url }}">
             <img
               class="relations-sku active"
