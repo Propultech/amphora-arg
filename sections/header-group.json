@@ -13,6 +13,7 @@
   "sections": {
     "17101352880c760f27": {
       "type": "apps",
+      "disabled": true,
       "settings": {
         "include_margins": true
       }
@@ -20,11 +21,10 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_C8jaUM": {
+        "announcement_bFN4QX": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "text": "¡SÓLO POR HOY! 25% OFF EN TODA LA WEB",
+            "text": "HASTA EL DOMINGO 06/10 | 9 CUOTAS SIN INTERÉS EN COMPRAS SUPERIORES A $ 80.000",
             "link": ""
           }
         },
@@ -44,7 +44,7 @@
         }
       },
       "block_order": [
-        "announcement_C8jaUM",
+        "announcement_bFN4QX",
         "announcement_tdTqhN",
         "announcement_AdnBNW"
       ],
