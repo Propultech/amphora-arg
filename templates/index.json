@@ -259,13 +259,13 @@
         "slide_T7QPGb": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Banners_joyeria_desk.jpg",
-            "image_mobile": "shopify://shop_images/Banners_joyeria_mobile.jpg",
+            "image": "shopify://shop_images/Banners_DDM_Desk_Joyeria.jpg",
+            "image_mobile": "shopify://shop_images/Banners_DDM_Mobile_Joyeria.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "",
-            "link": "shopify://collections/accesorios-joyeria",
+            "link": "shopify://collections/accesorios",
             "button_style_secondary": false,
             "box_align": "bottom-left",
             "show_text_box": true,
