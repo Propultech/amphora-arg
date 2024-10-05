@@ -12,25 +12,6 @@
     "slideshow_aBFHpA": {
       "type": "slideshow",
       "blocks": {
-        "slide_zgz7LT": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/Banners_DDM_Desk.jpg",
-            "image_mobile": "shopify://shop_images/Banners_DDM_Mobile.jpg",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify://collections/preview-ss25",
-            "button_style_secondary": false,
-            "box_align": "bottom-left",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
-        },
         "slide_tdpzbU": {
           "type": "slide",
           "settings": {
@@ -49,11 +30,30 @@
             "color_scheme": "scheme-1",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_zgz7LT": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Banners_DDM_Desk.jpg",
+            "image_mobile": "shopify://shop_images/Banners_DDM_Mobile.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://collections/preview-ss25",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
-        "slide_zgz7LT",
-        "slide_tdpzbU"
+        "slide_tdpzbU",
+        "slide_zgz7LT"
       ],
       "settings": {
         "layout": "full_bleed",
