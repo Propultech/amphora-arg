@@ -9,63 +9,6 @@
 */
 {
   "sections": {
-    "slideshow_aBFHpA": {
-      "type": "slideshow",
-      "blocks": {
-        "slide_tdpzbU": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/dk_2.jpg",
-            "image_mobile": "shopify://shop_images/mb_4.jpg",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify://collections/preview-ss25",
-            "button_style_secondary": false,
-            "box_align": "bottom-left",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_zgz7LT": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/Banners_DDM_Desk.jpg",
-            "image_mobile": "shopify://shop_images/Banners_DDM_Mobile.jpg",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify://collections/preview-ss25",
-            "button_style_secondary": false,
-            "box_align": "bottom-left",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "slide_tdpzbU",
-        "slide_zgz7LT"
-      ],
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "large",
-        "slider_visual": "dots",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "image_behavior": "none",
-        "show_text_below": false,
-        "accessibility_info": "Slideshow about our brand"
-      }
-    },
     "fd8003f0-fa91-4c7d-8f99-2bb233dd3615": {
       "type": "multicolumn",
       "blocks": {
@@ -488,7 +431,6 @@
     }
   },
   "order": [
-    "slideshow_aBFHpA",
     "fd8003f0-fa91-4c7d-8f99-2bb233dd3615",
     "608f3ae5-b1cf-4082-919f-3ead2712d478",
     "custom_liquid_iKqE7h",
