@@ -30,10 +30,30 @@
             "color_scheme": "scheme-1",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_BmmWxG": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/DK.jpg",
+            "image_mobile": "shopify://shop_images/MB.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://collections/preview-ss25",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
-        "6565bc0f-3939-488b-909e-7616f7e59da3"
+        "6565bc0f-3939-488b-909e-7616f7e59da3",
+        "slide_BmmWxG"
       ],
       "settings": {
         "layout": "full_bleed",
