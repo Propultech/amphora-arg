@@ -1,17 +1,17 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/logo-footer.webp",
+    "logo": "shopify://shop_images/logo-footer.webp",
     "logo_width": 200,
-    "favicon": "shopify:\/\/shop_images\/favicon_150x_51b5178b-1c6f-46d7-9f31-8fd04ac4d2e8.jpg",
+    "favicon": "shopify://shop_images/favicon_150x_51b5178b-1c6f-46d7-9f31-8fd04ac4d2e8.jpg",
     "type_header_font": "montserrat_n4",
     "heading_scale": 100,
     "type_body_font": "montserrat_n4",
@@ -108,11 +108,11 @@
     "sale_badge_color_scheme": "accent-2",
     "sold_out_badge_color_scheme": "inverse",
     "brand_headline": "",
-    "brand_description": "<p><\/p>",
+    "brand_description": "<p></p>",
     "brand_image_width": 100,
-    "social_facebook_link": "https:\/\/m.facebook.com\/AmphoraArg",
-    "social_instagram_link": "https:\/\/www.instagram.com\/amphora_argentina\/?hl=es",
-    "social_youtube_link": "https:\/\/www.youtube.com\/channel\/UCMmOgxmsiCQ1hrfc-4tCtSw",
+    "social_facebook_link": "https://m.facebook.com/AmphoraArg",
+    "social_instagram_link": "https://www.instagram.com/amphora_argentina/?hl=es",
+    "social_youtube_link": "https://www.youtube.com/channel/UCMmOgxmsiCQ1hrfc-4tCtSw",
     "social_tiktok_link": "",
     "social_twitter_link": "",
     "social_snapchat_link": "",
@@ -127,7 +127,7 @@
     "show_vendor": false,
     "show_cart_note": false,
     "cart_drawer_collection": "",
-    "checkout_logo_image": "shopify:\/\/shop_images\/logo-negro.png",
+    "checkout_logo_image": "shopify://shop_images/logo-negro.png",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
@@ -147,20 +147,20 @@
     ],
     "blocks": {
       "8208493610395315515": {
-        "type": "shopify:\/\/apps\/dondy-whatsapp-chat-marketing\/blocks\/app-block\/7f5a70cb-e171-4cc7-ac02-e2220203abd6",
+        "type": "shopify://apps/dondy-whatsapp-chat-marketing/blocks/app-block/7f5a70cb-e171-4cc7-ac02-e2220203abd6",
         "disabled": false,
         "settings": {
         }
       },
       "3162008616520556380": {
-        "type": "shopify:\/\/apps\/retail-rocket-personalization\/blocks\/main-code\/eb06115a-3169-4b5b-a921-16aac205bb7d",
+        "type": "shopify://apps/retail-rocket-personalization/blocks/main-code/eb06115a-3169-4b5b-a921-16aac205bb7d",
         "disabled": false,
         "settings": {
           "rrPartnerId": "5f889a3897a525064ceb7947"
         }
       },
       "13699062826762247329": {
-        "type": "shopify:\/\/apps\/retail-rocket-personalization\/blocks\/tracking-codes\/eb06115a-3169-4b5b-a921-16aac205bb7d",
+        "type": "shopify://apps/retail-rocket-personalization/blocks/tracking-codes/eb06115a-3169-4b5b-a921-16aac205bb7d",
         "disabled": false,
         "settings": {
           "rrExitIntentBar": "65df8570682ae6945d3f727a",
@@ -397,7 +397,7 @@
       "sale_badge_color_scheme": "accent-2",
       "sold_out_badge_color_scheme": "inverse",
       "brand_headline": "",
-      "brand_description": "<p><\/p>",
+      "brand_description": "<p></p>",
       "brand_image_width": 100,
       "social_twitter_link": "",
       "social_facebook_link": "",
