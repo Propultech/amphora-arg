@@ -11,6 +11,18 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
+    "whatsapp_button_TynnPQ": {
+      "type": "whatsapp-button",
+      "settings": {
+        "is_active": false,
+        "phone_number": "",
+        "message": "Hola, me interesa saber sobre sus productos.",
+        "button_color": "#67C15E",
+        "button_phone_color": "#fff",
+        "button_size": 35,
+        "button_margin": 15
+      }
+    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -42,6 +54,7 @@
     }
   },
   "order": [
+    "whatsapp_button_TynnPQ",
     "footer"
   ]
 }
