@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.header.name",
   "type": "header",
@@ -24,7 +24,7 @@
         "announcement_gKF9pQ": {
           "type": "announcement",
           "settings": {
-            "text": "¡SÓLO X HOY! 9 CUOTAS SIN INTERÉS EN COMPRAS SUPERIORES A $ 80.000",
+            "text": "25% OFF DEL 11 AL 13/10 ¡ADELANTÁ EL REGALO PRA MAMÁ!",
             "link": "shopify://collections/preview-ss25"
           }
         },
