@@ -472,13 +472,12 @@
     },
     "dc802415-49b3-4130-a1bb-b4143927a0d4": {
       "type": "video",
-      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h1",
         "enable_video_looping": true,
-        "custm_video_url": "",
-        "video_url": "https://www.youtube.com/watch?v=F0NdpNXrIG4",
+        "custm_video_url": "https://www.youtube.com/embed/KAVdf9AGeXw?autoplay=1&controls=0&showinfo=0&loop=1&mute=1&playlist=KAVdf9AGeXw&enablejsapi=1&origin=https%3A%2F%2Fwww.amphora.com.ar&widgetid=1",
+        "video_url": "",
         "description": "",
         "full_width": true,
         "color_scheme": "",
