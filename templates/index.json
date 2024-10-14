@@ -15,8 +15,8 @@
         "slide_BmmWxG": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/DK_-100.jpg",
-            "image_mobile": "shopify://shop_images/MB-100.jpg",
+            "image": "shopify://shop_images/Banner_Desk.gif",
+            "image_mobile": "shopify://shop_images/Banner_Mobile.gif",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
