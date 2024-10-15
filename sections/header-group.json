@@ -23,6 +23,7 @@
       "blocks": {
         "announcement_gKF9pQ": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "25% OFF EXTRA DAY ¡ADELANTÁ EL REGALO PARA MAMÁ!",
             "link": "shopify://collections/preview-ss25"
