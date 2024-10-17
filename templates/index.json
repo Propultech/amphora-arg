@@ -35,6 +35,25 @@
         "6565bc0f-3939-488b-909e-7616f7e59da3": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/DK_1_4f510e8c-1344-41bc-9135-8c86d2ee3f1d.jpg",
+            "image_mobile": "shopify://shop_images/MB_1_5523aa2a-0c6e-4f00-a287-0b0c2c0594f8.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://collections/gift-guide-para-mama-💝",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_CM97DM": {
+          "type": "slide",
+          "settings": {
             "image": "shopify://shop_images/Banners_DDM_Desk.jpg",
             "image_mobile": "shopify://shop_images/Banners_DDM_Mobile.jpg",
             "heading": "",
@@ -54,7 +73,8 @@
       },
       "block_order": [
         "slide_BmmWxG",
-        "6565bc0f-3939-488b-909e-7616f7e59da3"
+        "6565bc0f-3939-488b-909e-7616f7e59da3",
+        "slide_CM97DM"
       ],
       "settings": {
         "layout": "full_bleed",
