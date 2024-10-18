@@ -53,6 +53,7 @@
         },
         "slide_JrYMhj": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Banner_Desk.jpg",
             "image_mobile": "shopify://shop_images/Banner_Mobile.jpg",

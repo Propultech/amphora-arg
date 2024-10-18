@@ -38,7 +38,7 @@
         "announcement_AdnBNW": {
           "type": "announcement",
           "settings": {
-            "text": "ENVÍO GRATIS EN COMPRAS SUPERIORES A $100.000 | ENVÍO SAME DAY COMPRANDO ANTES DE LAS 11:00 AM",
+            "text": "ENVÍO GRATIS EN COMPRAS SUPERIORES A $100.000 |",
             "link": "shopify://collections/preview-ss25"
           }
         }
