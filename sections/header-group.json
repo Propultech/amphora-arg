@@ -21,13 +21,6 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_gKF9pQ": {
-          "type": "announcement",
-          "settings": {
-            "text": "9 CUOTAS SIN INTERÉS EN COMPRAS SUPERIORES A $ 80.000  ¡ELEGÍ EL REGALO PARA MAMÁ!",
-            "link": "shopify://collections/preview-ss25"
-          }
-        },
         "announcement_tdTqhN": {
           "type": "announcement",
           "settings": {
@@ -44,7 +37,6 @@
         }
       },
       "block_order": [
-        "announcement_gKF9pQ",
         "announcement_tdTqhN",
         "announcement_AdnBNW"
       ],

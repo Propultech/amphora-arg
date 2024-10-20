@@ -12,25 +12,6 @@
     "608f3ae5-b1cf-4082-919f-3ead2712d478": {
       "type": "slideshow",
       "blocks": {
-        "6565bc0f-3939-488b-909e-7616f7e59da3": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/dk_2_828bd087-3db3-4dcd-85c3-9c5e54c0a080.jpg",
-            "image_mobile": "shopify://shop_images/mb_2.jpg",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify://collections/gift-guide-para-mama-💝",
-            "button_style_secondary": false,
-            "box_align": "bottom-left",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
-        },
         "slide_CM97DM": {
           "type": "slide",
           "settings": {
@@ -52,7 +33,6 @@
         }
       },
       "block_order": [
-        "6565bc0f-3939-488b-909e-7616f7e59da3",
         "slide_CM97DM"
       ],
       "settings": {
