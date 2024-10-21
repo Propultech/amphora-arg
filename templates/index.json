@@ -147,8 +147,8 @@
         "slide_HtNt49": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Banners_DDM_Desk_Bags.jpg",
-            "image_mobile": "shopify://shop_images/Banners_DDM_Mobile_Bags.jpg",
+            "image": "shopify://shop_images/Banners_SS25_DESK_02.jpg",
+            "image_mobile": "shopify://shop_images/Banners_SS25_MB_02.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
@@ -193,13 +193,13 @@
         "slide_4pMmiD": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Banners_DDM_Desk_Shoes.jpg",
-            "image_mobile": "shopify://shop_images/Banners_DDM_Mobile_Shoes.jpg",
+            "image": "shopify://shop_images/Banners_Rebajas_Desk_b79614a3-d7ac-47fe-b233-2d46e0519773.jpg",
+            "image_mobile": "shopify://shop_images/Banners_Rebajas_Mobile_7c973bab-2c7c-4003-932b-22930f2ca305.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "",
-            "link": "shopify://collections/calzado",
+            "link": "shopify://collections/final-sale",
             "button_style_secondary": false,
             "box_align": "bottom-left",
             "show_text_box": true,
@@ -376,6 +376,7 @@
     },
     "dc802415-49b3-4130-a1bb-b4143927a0d4": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h1",
