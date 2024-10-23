@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.footer.name",
   "type": "footer",
@@ -14,11 +14,11 @@
     "whatsapp_button_TynnPQ": {
       "type": "whatsapp-button",
       "settings": {
-        "is_active": false,
-        "phone_number": "",
-        "message": "Hola, me interesa saber sobre sus productos.",
-        "button_color": "#67C15E",
-        "button_phone_color": "#fff",
+        "is_active": true,
+        "phone_number": "+54 9 11 6166 6278",
+        "message": "¡Hola Amphora!",
+        "button_color": "#67c15e",
+        "button_phone_color": "#ffffff",
         "button_size": 35,
         "button_margin": 15
       }
@@ -40,7 +40,7 @@
       "settings": {
         "color_scheme": "scheme-1",
         "newsletter_enable": true,
-        "newsletter_heading": "¡SUSCRIBITE A NUESTRO NEWSLETTER!<br>OBTENÉ UN <strong>10% OFF<\/strong> EN TU PRIMERA COMPRA",
+        "newsletter_heading": "¡SUSCRIBITE A NUESTRO NEWSLETTER!<br>OBTENÉ UN <strong>10% OFF</strong> EN TU PRIMERA COMPRA",
         "enable_follow_on_shop": true,
         "show_social": true,
         "enable_country_selector": false,
