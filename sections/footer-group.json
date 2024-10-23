@@ -15,7 +15,7 @@
       "type": "whatsapp-button",
       "settings": {
         "is_active": true,
-        "phone_number": "+54 9 11 6166 6278",
+        "phone_number": "+5491161666278",
         "message": "¡Hola Amphora!",
         "button_color": "#67c15e",
         "button_phone_color": "#ffffff",
