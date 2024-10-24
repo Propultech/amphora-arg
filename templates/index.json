@@ -334,21 +334,21 @@
         "column_DWi7AV": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/banner_X2_01_2.jpg",
+            "image": "shopify://shop_images/banner_X2_cartera.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/new-in-bandolera"
+            "link": "shopify://collections/carteras-dos-asas"
           }
         },
         "column_wnPTM8": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/banner_X2_02_2.jpg",
+            "image": "shopify://shop_images/banner_X2_bandoleras_mochilas.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/mochilas"
+            "link": "shopify://collections/carteras-bandoleras"
           }
         }
       },
