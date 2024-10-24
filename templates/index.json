@@ -193,13 +193,13 @@
         "slide_4pMmiD": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Banners_Rebajas_Desk_b79614a3-d7ac-47fe-b233-2d46e0519773.jpg",
-            "image_mobile": "shopify://shop_images/Banners_Rebajas_Mobile_7c973bab-2c7c-4003-932b-22930f2ca305.jpg",
+            "image": "shopify://shop_images/Banners_Desk.jpg",
+            "image_mobile": "shopify://shop_images/Banners_Mobile.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "",
-            "link": "shopify://collections/final-sale",
+            "link": "shopify://collections/calzado",
             "button_style_secondary": false,
             "box_align": "bottom-left",
             "show_text_box": true,
@@ -238,6 +238,7 @@
       "blocks": {
         "slide_T7QPGb": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Banners_joyeria_desk.jpg",
             "image_mobile": "shopify://shop_images/Banners_joyeria_mobile.jpg",
