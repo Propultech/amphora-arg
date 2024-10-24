@@ -147,13 +147,13 @@
         "slide_HtNt49": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Banners_SS25_DESK_02.jpg",
-            "image_mobile": "shopify://shop_images/Banners_SS25_MB_02.jpg",
+            "image": "shopify://shop_images/Banners_Desk_1.jpg",
+            "image_mobile": "shopify://shop_images/Banners_Mobile_1.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "",
-            "link": "shopify://collections/new-in-dos-asas",
+            "link": "shopify://collections/preview-ss25",
             "button_style_secondary": false,
             "box_align": "bottom-left",
             "show_text_box": true,
