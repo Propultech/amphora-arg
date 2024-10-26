@@ -21,6 +21,13 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_Ep3AzN": {
+          "type": "announcement",
+          "settings": {
+            "text": "SÁBADO 26 Y DOMINEGO 27 | 9 CUOTAS SIN INTERÉS EN COMPRAS SUPERIORES A $ 80.000",
+            "link": "shopify://collections/preview-ss25"
+          }
+        },
         "announcement_tdTqhN": {
           "type": "announcement",
           "settings": {
@@ -37,6 +44,7 @@
         }
       },
       "block_order": [
+        "announcement_Ep3AzN",
         "announcement_tdTqhN",
         "announcement_AdnBNW"
       ],
