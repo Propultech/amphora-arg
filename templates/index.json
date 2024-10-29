@@ -472,6 +472,7 @@
       "blocks": {
         "socialwidget_base_widget_GWKEhk": {
           "type": "shopify://apps/socialwidget/blocks/base-widget/508b8d5b-b176-4dc6-a0ba-2b222db6eb79",
+          "disabled": true,
           "settings": {
           }
         }
