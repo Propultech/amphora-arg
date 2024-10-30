@@ -153,22 +153,23 @@
           "rrPartnerId": "5f889a3897a525064ceb7947"
         }
       },
+      "8208493610395315515": {
+        "type": "shopify://apps/dondy-whatsapp-chat-marketing/blocks/app-block/7f5a70cb-e171-4cc7-ac02-e2220203abd6",
+        "disabled": true,
+        "settings": {
+        }
+      },
       "13699062826762247329": {
         "type": "shopify://apps/retail-rocket-personalization/blocks/tracking-codes/eb06115a-3169-4b5b-a921-16aac205bb7d",
         "disabled": false,
         "settings": {
+          "rrSecurityStock": 2,
           "rrExitIntentBar": "65df8570682ae6945d3f727a",
           "ignoredCollections": [
 
           ],
           "tagstosend": "",
           "metafieldtosend": ""
-        }
-      },
-      "8208493610395315515": {
-        "type": "shopify://apps/dondy-whatsapp-chat-marketing/blocks/app-block/7f5a70cb-e171-4cc7-ac02-e2220203abd6",
-        "disabled": true,
-        "settings": {
         }
       }
     },
