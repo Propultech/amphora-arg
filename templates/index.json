@@ -12,6 +12,25 @@
     "608f3ae5-b1cf-4082-919f-3ead2712d478": {
       "type": "slideshow",
       "blocks": {
+        "slide_R9bxxf": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/DK-100.jpg",
+            "image_mobile": "shopify://shop_images/MB-100_a983e313-9983-43c8-9239-e88fbcec2803.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "shopify://collections/preview-ss25",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "slide_CM97DM": {
           "type": "slide",
           "settings": {
@@ -33,6 +52,7 @@
         }
       },
       "block_order": [
+        "slide_R9bxxf",
         "slide_CM97DM"
       ],
       "settings": {
