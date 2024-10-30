@@ -34,11 +34,19 @@
             "text": "ENVÍO GRATIS EN COMPRAS SUPERIORES A $100.000",
             "link": "shopify://collections/preview-ss25"
           }
+        },
+        "announcement_jMriNf": {
+          "type": "announcement",
+          "settings": {
+            "text": "MIERCOLES 30/10 YJUEVES 1/11 | 12 CUOTAS SIN INTERÉS EN COMPRAS SUPERIORES A $ 100.000",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "announcement_tdTqhN",
-        "announcement_AdnBNW"
+        "announcement_AdnBNW",
+        "announcement_jMriNf"
       ],
       "settings": {
         "color_scheme": "accent-1",
