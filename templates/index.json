@@ -14,6 +14,7 @@
       "blocks": {
         "slide_R9bxxf": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/DK-100.jpg",
             "image_mobile": "shopify://shop_images/MB-100_a983e313-9983-43c8-9239-e88fbcec2803.jpg",
