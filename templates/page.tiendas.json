@@ -1,0 +1,145 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+ {
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "tiendas_propultech_mawM7K": {
+      "type": "tiendas-propultech",
+      "blocks": {
+        "stores_HemPRk": {
+          "type": "stores",
+          "settings": {
+            "name": "Unicenter",
+            "address": "Martínez, Buenos Aires",
+            "google": "",
+            "working_hours": "<p><strong>Lunes a Domingo:</strong> 10 a 22 hrs</p>",
+            "phone": "4717-6188"
+          }
+        },
+        "stores_QwK6CX": {
+          "type": "stores",
+          "settings": {
+            "name": "Las Palmas del Pilar",
+            "address": "Pilar, Buenos Aires",
+            "google": "",
+            "working_hours": "<p><strong>Lunes a Domingo:</strong> 10 a 22 hrs</p>",
+            "phone": "0230-4667950"
+          }
+        },
+        "stores_ERUCYr": {
+          "type": "stores",
+          "settings": {
+            "name": "Paseo Champagnat",
+            "address": "Pilar, Buenos Aires",
+            "google": "",
+            "working_hours": "<p><strong>Lunes a Domingo:</strong> 10 a 21 hrs</p>",
+            "phone": "02304-374432"
+          }
+        },
+        "stores_FDCV78": {
+          "type": "stores",
+          "settings": {
+            "name": "Tortugas Open Mall",
+            "address": "Tortuguitas, Buenos Aires",
+            "google": "",
+            "working_hours": "<p><strong>Lunes a Domingo:</strong> 10 a 21 hrs</p>",
+            "phone": "03327-424308"
+          }
+        },
+        "stores_ryAPPt": {
+          "type": "stores",
+          "settings": {
+            "name": "Ribera Shopping",
+            "address": "Santa Fe",
+            "google": "",
+            "working_hours": "<p><strong>Lunes a Domingo:</strong> 10 a 21 hrs</p>",
+            "phone": "0342-4558053"
+          }
+        },
+        "stores_a3KXrC": {
+          "type": "stores",
+          "settings": {
+            "name": "Alto Comahue Shopping",
+            "address": "Neuquén",
+            "google": "",
+            "working_hours": "<p><strong>Lunes a Domingo:</strong> 10 a 22 hrs</p>",
+            "phone": "0299-4340321"
+          }
+        },
+        "stores_ttN9hh": {
+          "type": "stores",
+          "settings": {
+            "name": "Portal Salta Shopping",
+            "address": "Salta",
+            "google": "",
+            "working_hours": "<p><strong>Lunes a Domingo:</strong> 10 a 22 hrs</p>",
+            "phone": "0387-4953040"
+          }
+        },
+        "stores_HyH4NL": {
+          "type": "stores",
+          "settings": {
+            "name": "25 de mayo 199",
+            "address": "San Miguel de Tucumán, Tucumán",
+            "google": "",
+            "working_hours": "<p><strong>Lunes a Domingo:</strong> 9 a 13 hrs y de 17:30 a 22:30 hrs</p>",
+            "phone": "0381-4524988"
+          }
+        },
+        "stores_DGdQUU": {
+          "type": "stores",
+          "settings": {
+            "name": "San Luis Shopping",
+            "address": "San Luis",
+            "google": "",
+            "working_hours": "<p><strong>Lunes a Domingo:</strong> 10 a 22 hrs</p>",
+            "phone": "54 9 2665 24-2948"
+          }
+        },
+        "stores_GTVKiQ": {
+          "type": "stores",
+          "settings": {
+            "name": "Portal Patagonia",
+            "address": "Neuquén",
+            "google": "",
+            "working_hours": "<p><strong>Lunes a Domingo:</strong> 10 a 22 hrs</p>",
+            "phone": "2995 55-3747"
+          }
+        },
+      },
+      "block_order": [
+        "stores_HemPRk",
+        "stores_QwK6CX",
+        "stores_ERUCYr",
+        "stores_FDCV78",
+        "stores_ryAPPt",
+        "stores_a3KXrC",
+        "stores_ttN9hh",
+        "stores_HyH4NL",
+        "stores_DGdQUU",
+        "stores_GTVKiQ",
+        "stores_6QjFTi"
+      ],
+      "settings": {
+        "title": "Información de Tiendas"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "tiendas_propultech_mawM7K"
+  ]
+}
