@@ -1,0 +1,16 @@
+/* Zendesk */
+iframe#launcher {
+  z-index: 100 !important;
+}
+
+/* Outlined Button in Cart Drawer */
+a.cart__checkout-button.button.button--outlined {
+  border: 1px solid rgb(var(--color-button));
+  color: rgb(var(--color-button));
+  background-color: rgb(var(--color-button-text));
+}
+
+a.cart__checkout-button.button.button--outlined:hover {
+  border: 2px solid rgb(var(--color-button));
+  transition: all 0.1s ease;
+}
