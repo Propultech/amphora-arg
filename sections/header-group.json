@@ -21,14 +21,6 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_jMriNf": {
-          "type": "announcement",
-          "disabled": true,
-          "settings": {
-            "text": "MIÉRCOLES 30 Y JUEVES 31 DE OCTUBRE  | 12 CUOTAS SIN INTERÉS EN COMPRAS SUPERIORES A $ 100.000",
-            "link": ""
-          }
-        },
         "announcement_tdTqhN": {
           "type": "announcement",
           "settings": {
@@ -45,7 +37,6 @@
         }
       },
       "block_order": [
-        "announcement_jMriNf",
         "announcement_tdTqhN",
         "announcement_AdnBNW"
       ],
