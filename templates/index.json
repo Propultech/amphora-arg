@@ -12,6 +12,25 @@
     "608f3ae5-b1cf-4082-919f-3ead2712d478": {
       "type": "slideshow",
       "blocks": {
+        "slide_CM97DM": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Banners_Desk_v02_d53a88b0-ec4f-4b9a-b389-955eb6e1e382.jpg",
+            "image_mobile": "shopify://shop_images/Banners_mobile_v02_d33dfb3c-f329-48cc-8c96-b2c754a75755.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://collections/preview-ss25",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "slide_R9bxxf": {
           "type": "slide",
           "disabled": true,
@@ -31,30 +50,11 @@
             "color_scheme": "scheme-1",
             "text_alignment_mobile": "center"
           }
-        },
-        "slide_CM97DM": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/Banners_Desk_V01.jpg",
-            "image_mobile": "shopify://shop_images/Banners_Mobile_V01.jpg",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify://collections/red-❣",
-            "button_style_secondary": false,
-            "box_align": "bottom-left",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
-        "slide_R9bxxf",
-        "slide_CM97DM"
+        "slide_CM97DM",
+        "slide_R9bxxf"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -490,17 +490,6 @@
     },
     "17301654748e755507": {
       "type": "apps",
-      "blocks": {
-        "socialwidget_base_widget_GWKEhk": {
-          "type": "shopify://apps/socialwidget/blocks/base-widget/508b8d5b-b176-4dc6-a0ba-2b222db6eb79",
-          "disabled": true,
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "socialwidget_base_widget_GWKEhk"
-      ],
       "settings": {
         "include_margins": true
       }
