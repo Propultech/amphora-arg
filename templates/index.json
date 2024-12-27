@@ -259,15 +259,14 @@
       "blocks": {
         "slide_T7QPGb": {
           "type": "slide",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/Banners_joyeria_desk.jpg",
-            "image_mobile": "shopify://shop_images/Banners_joyeria_mobile.jpg",
+            "image": "shopify://shop_images/Banners_Desk_V01_2.jpg",
+            "image_mobile": "shopify://shop_images/Banners_Mobile_V01_2.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "",
-            "link": "shopify://collections/accesorios",
+            "link": "shopify://collections/calzado",
             "button_style_secondary": false,
             "box_align": "bottom-left",
             "show_text_box": true,
