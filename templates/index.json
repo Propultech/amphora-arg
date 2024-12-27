@@ -168,13 +168,13 @@
         "slide_HtNt49": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Banners_Desk_1.jpg",
-            "image_mobile": "shopify://shop_images/Banners_Mobile_1.jpg",
+            "image": "shopify://shop_images/Banners_Desk_V02_1.jpg",
+            "image_mobile": "shopify://shop_images/Banners_Mobile_V02_1.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "",
-            "link": "shopify://collections/preview-ss25",
+            "link": "shopify://collections/new-in-mochilas",
             "button_style_secondary": false,
             "box_align": "bottom-left",
             "show_text_box": true,
