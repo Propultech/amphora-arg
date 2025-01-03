@@ -12,6 +12,25 @@
     "608f3ae5-b1cf-4082-919f-3ead2712d478": {
       "type": "slideshow",
       "blocks": {
+        "slide_CM97DM": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Banners_Desk_5.jpg",
+            "image_mobile": "shopify://shop_images/Banners_Mobile_5_15c529a0-fd65-4420-b7c5-8dac1f4c9806.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://collections/sale-🔥-up-to-40-off",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "slide_R9bxxf": {
           "type": "slide",
           "disabled": true,
@@ -31,30 +50,11 @@
             "color_scheme": "scheme-1",
             "text_alignment_mobile": "center"
           }
-        },
-        "slide_CM97DM": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/Banners_Desk_V01.jpg",
-            "image_mobile": "shopify://shop_images/Banners_Mobile_V01.jpg",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify://collections/red-❣",
-            "button_style_secondary": false,
-            "box_align": "bottom-left",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
-        "slide_R9bxxf",
-        "slide_CM97DM"
+        "slide_CM97DM",
+        "slide_R9bxxf"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -168,13 +168,13 @@
         "slide_HtNt49": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Banners_Desk_1.jpg",
-            "image_mobile": "shopify://shop_images/Banners_Mobile_1.jpg",
+            "image": "shopify://shop_images/Banners_Desk_6.jpg",
+            "image_mobile": "shopify://shop_images/Banners_Mobile_V01_3.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "",
-            "link": "shopify://collections/preview-ss25",
+            "link": "shopify://collections/new-in",
             "button_style_secondary": false,
             "box_align": "bottom-left",
             "show_text_box": true,
@@ -214,13 +214,13 @@
         "slide_4pMmiD": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Banners_Desk.jpg",
-            "image_mobile": "shopify://shop_images/Banners_Mobile.jpg",
+            "image": "shopify://shop_images/Banners_Desk_3_1bcf47c0-5675-4db5-b43f-e3442b66abcc.jpg",
+            "image_mobile": "shopify://shop_images/Banners_mobile_3.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "",
-            "link": "shopify://collections/calzado",
+            "link": "shopify://collections/new-in-bandolera",
             "button_style_secondary": false,
             "box_align": "bottom-left",
             "show_text_box": true,
@@ -259,15 +259,14 @@
       "blocks": {
         "slide_T7QPGb": {
           "type": "slide",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/Banners_joyeria_desk.jpg",
-            "image_mobile": "shopify://shop_images/Banners_joyeria_mobile.jpg",
+            "image": "shopify://shop_images/Banners_Desk_V02_3.jpg",
+            "image_mobile": "shopify://shop_images/Banners_Mobile_V02_3.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "",
-            "link": "shopify://collections/accesorios",
+            "link": "shopify://collections/calzado",
             "button_style_secondary": false,
             "box_align": "bottom-left",
             "show_text_box": true,
@@ -355,7 +354,7 @@
         "column_DWi7AV": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/banner_X2_cartera.jpg",
+            "image": "shopify://shop_images/banner_X2_carteras_c34f52e3-ff3b-42f2-a10e-47c30d8a5216.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -365,7 +364,7 @@
         "column_wnPTM8": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/banner_X2_bandoleras_mochilas.jpg",
+            "image": "shopify://shop_images/banner_X2_bandoleras_f4a726c1-d015-4586-8300-29b4c2c07573.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -377,6 +376,7 @@
         "column_DWi7AV",
         "column_wnPTM8"
       ],
+      "disabled": true,
       "settings": {
         "force_full_width": true,
         "title": "",
@@ -490,17 +490,6 @@
     },
     "17301654748e755507": {
       "type": "apps",
-      "blocks": {
-        "socialwidget_base_widget_GWKEhk": {
-          "type": "shopify://apps/socialwidget/blocks/base-widget/508b8d5b-b176-4dc6-a0ba-2b222db6eb79",
-          "disabled": true,
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "socialwidget_base_widget_GWKEhk"
-      ],
       "settings": {
         "include_margins": true
       }
