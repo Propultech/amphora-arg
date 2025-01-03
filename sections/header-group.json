@@ -21,6 +21,13 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_AdnBNW": {
+          "type": "announcement",
+          "settings": {
+            "text": "SUMMER SALE UP TO 40% OFF",
+            "link": "shopify://collections/sale-🔥-up-to-40-off"
+          }
+        },
         "announcement_tdTqhN": {
           "type": "announcement",
           "settings": {
@@ -28,7 +35,7 @@
             "link": "shopify://collections/final-sale"
           }
         },
-        "announcement_AdnBNW": {
+        "announcement_Fxtfqt": {
           "type": "announcement",
           "settings": {
             "text": "ENVÍO GRATIS EN COMPRAS SUPERIORES A $100.000",
@@ -37,8 +44,9 @@
         }
       },
       "block_order": [
+        "announcement_AdnBNW",
         "announcement_tdTqhN",
-        "announcement_AdnBNW"
+        "announcement_Fxtfqt"
       ],
       "settings": {
         "color_scheme": "accent-1",
