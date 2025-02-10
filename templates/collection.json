@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "banner": {
@@ -37,11 +37,33 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_kJRUk8": {
+      "type": "rich-text",
+      "blocks": {
+        "text_BVFwpp": {
+          "type": "text",
+          "settings": {
+            "text": "{{ collection.description }}"
+          }
+        }
+      },
+      "block_order": [
+        "text_BVFwpp"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "17049860622c097c18": {
       "type": "apps",
       "blocks": {
         "retail_rocket_personalization_markups_qrHjz6": {
-          "type": "shopify:\/\/apps\/retail-rocket-personalization\/blocks\/markups\/eb06115a-3169-4b5b-a921-16aac205bb7d",
+          "type": "shopify://apps/retail-rocket-personalization/blocks/markups/eb06115a-3169-4b5b-a921-16aac205bb7d",
           "settings": {
             "rrMarkupCode": "65df858d8e6a3ed9214d7ac3",
             "rrEmptyMarkupCode": ""
@@ -59,6 +81,7 @@
   "order": [
     "banner",
     "product-grid",
+    "rich_text_kJRUk8",
     "17049860622c097c18"
   ]
 }
