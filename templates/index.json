@@ -7,7 +7,7 @@
  * made to this file may be overwritten.
  * ------------------------------------------------------------
  */
-{
+ {
   "sections": {
     "608f3ae5-b1cf-4082-919f-3ead2712d478": {
       "type": "slideshow",
@@ -515,6 +515,25 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "popup_newsletter_YeqUm8": {
+      "type": "popup-newsletter",
+      "disabled": true,
+      "settings": {
+        "solo_banner": true,
+        "banner_total": "shopify://shop_images/banner_desk_3_eee1eee0-8888-4d12-bf56-5e297a05e7cf.jpg",
+        "banner_link": "",
+        "background_image": "shopify://shop_images/banner_desk_3_eee1eee0-8888-4d12-bf56-5e297a05e7cf.jpg",
+        "background_color": "#ffffff",
+        "popup_title": "Suscríbete y obtén un 10% OFF",
+        "title_font_size": 24,
+        "popup_text": "¡Sé el primero en enterarte de nuestras promociones y novedades!",
+        "text_font_size": 16,
+        "show_form": true,
+        "form_button_text": "Enviar",
+        "button_color": "#007bff",
+        "popup_timeout": 5
+      }
     }
   },
   "order": [
@@ -532,6 +551,7 @@
     "dc802415-49b3-4130-a1bb-b4143927a0d4",
     "b18a84ed-5707-48d2-b87d-d05620258745",
     "17301654748e755507",
-    "1737483626edfea16c"
+    "1737483626edfea16c",
+    "popup_newsletter_YeqUm8"
   ]
 }
