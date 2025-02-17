@@ -86,6 +86,50 @@
               <div class="drawer__cart-items-wrapper">
                 <table class="cart-items" role="table">
                   <thead role="rowgroup">
+                    <tr>
+                      <div class="cart-items-term-message">{{ settings.message_cart }}</div>
+                    </tr>
+                    <tr>
+                      {% assign Y = cart.total_price | divided_by: 100 %}
+                      {% assign Z = settings.progress_value %}
+                      {% if Z > 0 %}
+                        {% assign progress_value = Y | times: 100 | divided_by: Z %}
+                        {% assign remaining_value = Z | minus: Y %}
+                      {% else %}
+                        {% assign progress_value = 0 %}
+                        {% assign remaining_value = 0 %}
+                      {% endif %}
+                      {% if settings.active_progress %}
+                      <div class="progress-bar-section">
+                        <!-- Mensaje sobre la barra de progreso -->
+                        <div class="progress-bar-message">
+                          {% if remaining_value > 0 %}
+                            {{ settings.message_before_progress }}
+                            {{ remaining_value | times: 100 | money }}
+                            {{ settings.message_before_progress_2 }}
+                          {% else %}
+                            {{ settings.message_after_progress }}
+                          {% endif %}
+                        </div>
+                        <!-- Contenedor de la barra de progreso -->
+                        <div
+                          class="progress-bar-container"
+                        >
+                          <progress
+                            id="progress-bar"
+                            value="{{ progress_value }}"
+                            max="100"
+                            
+                              style="accent-color: #5F8C26;"
+                            
+                          ></progress>
+                        </div>
+                      </div>
+                      {% endif %}
+                    </tr>
+                  </thead>
+
+                  <thead role="rowgroup">
                     <tr role="row">
                       <th id="CartDrawer-ColumnProductImage" role="columnheader">
                         <span class="visually-hidden">{{ 'sections.cart.headings.image' | t }}</span>

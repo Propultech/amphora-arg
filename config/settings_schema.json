@@ -1437,6 +1437,12 @@
         "label": "t:settings_schema.cart.settings.cart_type.label"
       },
       {
+        "type": "text",
+        "id": "message_cart",
+        "label": "t:settings_schema.cart.settings.message_cart.label",
+        "default": "30 días para cambios y devoluciones"
+      },
+      {
         "type": "checkbox",
         "id": "show_vendor",
         "label": "t:settings_schema.cart.settings.show_vendor.label",
@@ -1451,6 +1457,36 @@
       {
         "type": "header",
         "content": "t:settings_schema.cart.settings.cart_drawer.header"
+      },
+      {
+        "type": "checkbox",
+        "id": "active_progress",
+        "label": "t:settings_schema.cart.settings.cart_drawer.progress_bar.active_label",
+        "default": true
+      },
+      {
+        "type": "number",
+        "id": "progress_value",
+        "label": "t:settings_schema.cart.settings.cart_drawer.progress_bar.value",
+        "default": 600000
+      },
+      {
+        "type": "text",
+        "id": "message_before_progress",
+        "label": "t:settings_schema.cart.settings.cart_drawer.progress_bar.message_before",
+        "default": "Te faltan"
+      },
+      {
+        "type": "text",
+        "id": "message_before_progress_2",
+        "label": "t:settings_schema.cart.settings.cart_drawer.progress_bar.message_before_2",
+        "default": "Para obtener <strong>envío gratis</strong>"
+      },
+      {
+        "type": "text",
+        "id": "message_after_progress",
+        "label": "t:settings_schema.cart.settings.cart_drawer.progress_bar.message_after",
+        "default": "¡Felicidades! ¡Ya tienes despacho Gratis!"
       },
       {
         "type": "collection",

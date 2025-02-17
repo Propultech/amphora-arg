@@ -255,6 +255,9 @@
             "label": "Notificación emergente"
           }
         },
+        "message_cart": {
+          "label": "Mensaje del carrito"
+        },
         "show_vendor": {
           "label": "Mostrar proveedor"
         },
@@ -266,6 +269,13 @@
           "collection": {
             "label": "Colección",
             "info": "Visible cuando el carrito lateral está vacío."
+          },
+          "progress_bar": {
+            "active_label": "Mostrar barra de progreso para free shipping",
+            "message_before": "Mensaje sin completar la barra de progreso",
+            "message_before_2": "Mensaje sin completar la barra de progreso despues del valor",
+            "message_after": "Mensaje después de completar la barra de progreso",
+            "value": "Monto mínimo para freeShipping"
           }
         }
       }
