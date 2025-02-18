@@ -120,13 +120,56 @@
                             value="{{ progress_value }}"
                             max="100"
                             
-                              style="accent-color: #5F8C26;"
+                            {% if progress_value >= 100 %}
+                              style="--progress-value-color: #5F8C26;"
+                            {% endif %}
                             
                           ></progress>
                         </div>
                       </div>
                       {% endif %}
                     </tr>
+                    <style >
+                    /* Progress Bar  */
+                    .progress-bar-section {
+                      padding: 10px 14px;
+                      border-bottom: 1px solid #CCCCCC;
+                      padding: 1rem 3rem;
+                    }
+
+                    progress#progress-bar {
+                      background: none;
+                      width: 100%;
+                      height: 8px;
+                    }
+
+                    progress {
+                      border: 0;
+                      border-radius: 10px;
+                    }
+
+                    progress::-webkit-progress-bar {
+                      border: 0;
+                      border-radius: 10px;
+                      background-color: #CCCCCC;
+                    }
+
+                    progress::-webkit-progress-value {
+                      border: 0;
+                      border-radius: 10px;
+                    }
+
+                    progress::-moz-progress-bar {
+                      border: 0;
+                      border-radius: 10px;
+                    }
+
+                    .progress-bar-message {
+                      font-size: 1.3rem;
+                      color: #000000;
+                      margin-bottom: -.6rem;
+                    }
+                    </style>
                   </thead>
 
                   <thead role="rowgroup">
